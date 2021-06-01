@@ -2,7 +2,7 @@
 layout: post
 title: Java release cycle
 ---
-![an image alt text]({{ site.baseurl }}/images/java.png "Java logo
+![Java logo]({{ site.baseurl }}/images/java.png "Java logo")
 
 H1. What is Java release cycle & how often?
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: 
+What is PostgreSQL release cycle? How often? 
 ---
+PostgreSQL is an open-source relational database management system (RDBMS) that emphasizes SQL compliance and extensibility. This database is also known as Postgres, and it is this DBMS that relationships between data items are used as the base of organizing and accessing a database. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis magna sed ligula vulputate porta a id sem. Nulla quis mauris in risus tristique faucibus non ac lorem. In hac habitasse platea dictumst. Proin egestas consectetur efficitur. Praesent et ornare tortor. Suspendisse tincidunt feugiat nisi, pulvinar lobortis lorem pharetra non. Sed commodo velit lobortis dolor suscipit rutrum. Nulla libero enim, ultrices et sapien in, luctus interdum lectus. Donec dictum lorem id nisl condimentum fermentum.
 
 Sed faucibus erat mi, quis imperdiet eros ultrices sed. Proin condimentum a felis in feugiat. Duis vehicula vulputate urna eu euismod. Suspendisse auctor neque a tempor consectetur. Curabitur a feugiat diam, eget rhoncus ex. Integer rhoncus feugiat mi eu maximus. Sed venenatis fringilla tristique. Pellentesque in tortor id nisi vehicula consectetur. In vel turpis et risus laoreet venenatis auctor vel lorem. Nulla convallis mattis erat. Maecenas pellentesque vehicula felis ut venenatis.
 

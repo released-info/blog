@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-What is PostgreSQL release cycle? How often? 
+title: What is PostgreSQL release cycle? How often? 
 ---
+![PostgreSQL logo]({{ site.baseurl }}/images/PostgreSQL-logo.png "PostgreSQL logo")
 PostgreSQL is an open-source relational database management system (RDBMS) that emphasizes SQL compliance and extensibility. This database is also known as Postgres, and it is this DBMS that relationships between data items are used as the base of organizing and accessing a database. 
 
 

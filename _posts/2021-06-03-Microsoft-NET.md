@@ -46,7 +46,7 @@ If you’re a .NET developer or want to be, then there is nothing to worry about
 Currently, most developers have or are planning to port their code from .NET Framework to .NET Core. Porting process is relatively straightforward for most projects. In fact, what will dictate your merging process from .NET framework to .NET core is the complexity of your work. The work being referred to here is what you will have to do after the initial porting of project files.  The main reason for this is simply because UWP, among few other .NET features, will not be playing a significant role in the future of .NET. Remember, .NET 5 came out in 2020, which was termed the next step evolution or the future of the .NET Framework and .NET Core.
 
 .NET 5 version, published in November 2020, is a unified version that, in fact, marked the foundation of the unification process. This version has laid the basis for Xamarin developers to use the unified version.
-So, if you are planning to migrate program files from .NET Framework to .NET Core, here is an overview of porting guide for you from Microsoft. 
+So, if you are planning to migrate program files from .NET Framework to .NET Core, [here](https://docs.microsoft.com/en-us/dotnet/core/porting/) is an overview of porting guide for you from Microsoft. 
 
 
 

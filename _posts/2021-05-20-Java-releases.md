@@ -17,7 +17,7 @@ title: What is Java release cycle & how often?
 
 The Features release type lasts until the next release (which is 6 months) and is only supported by oracle.
 
-### Which major version will be released now and when?
+# Which major version will be released now and when?
 
 Java 17 is the next major version that is set to be released in September 2021. This version is set to feature a restored always-strict floating-point semantics along with other upgraded features. Furthermore, this version is also set to be the next long-term support (LTS) version of the JDK, making it the third-ever LTS release after Java 11 and Java 8 LTS.
 
@@ -32,7 +32,7 @@ The release and use dates according to Oracle JVM and OpenJDK for these versions
 
 Note: The end of free public updates for each version varies depending on the user.
 
-### What is special about Java 17 release? (it is LTS + features)
+# What is special about Java 17 release? (it is LTS + features)
 
 Since Java switch from 2-3 years releases cadence to 6 months, they have created one long-term support (LTS) release, Java 11. As of now, Java 17 is under active development, and it is set to be the second long-term support (LTS) due out in September. 
 The release date is based on their current 6-month release cycles, following the Java 16 March release. Apart from being the next LTS version making it a special release, it is also set to come with consistent strict floating-point operations, among other upgraded standard features. 

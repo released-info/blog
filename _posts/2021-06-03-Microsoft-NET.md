@@ -2,9 +2,15 @@
 layout: post
 title: Microsoft .NET release cycle
 ---
-![Microsoft .NET]({{ site.baseurl }}/images/csharp-logo.png "Microsoft .NET")
-NET is a software development ecosystem and framework created and supported by Microsoft. The goal for creating this framework enables easy engineering of desktop and web applications. This platform has provided an ideal programming ecosystem for most phases of software development. It has also been used for several different application types due to its popular free platform.
+<div class="row">
+    <div class="col-sm-2">
+        <img src="/images/csharp-logo.png" alt="Microsoft .NET"/>
+    </div>
+    <div class="col-sm-10">
+        NET is a software development ecosystem and framework created and supported by Microsoft. The goal for creating this framework enables easy engineering of desktop and web applications. This platform has provided an ideal programming ecosystem for most phases of software development. It has also been used for several different application types due to its popular free platform.
 So, what is .NET release cycle, and how often does it occur? Well, .NET release cycle is a schedule to which a new .NET release framework version is released. This released cycle usually occurs after about every one year unless otherwise stated. The new version may sometimes be released before time if the previous release has a crucial problem that needs to be fixed, thus causing the developers (Microsoft) to release a new minor version outside its roadmap schedule. 
+    </div>
+</div>
 
 # Which major version will be released now and when?
 The next Microsoft .Net version to be released is .NET 6, and it is set to be released on November 9. During this year’s Build 202 (Microsoft Build conference), Microsoft revealed the final release date after issuing preview 4 for .NET 6 version. `It’s also ready for real-world testing if you haven’t yet tried .NET 6 in your environment`, says Microsoft’s Richard Lander during the reveal. 

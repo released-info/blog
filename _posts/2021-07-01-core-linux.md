@@ -11,10 +11,7 @@ title: Linux kernel release cycle
     </div>
 </div>
 
-# Linux kernel
-Tiny kernel Linux is a minimalist operating system that uses as a base a simplified and modified Linux kernel, along with BusyBox and FLTK, to provide users with the essential tools to make a computer fully functional. Its main feature is undoubtedly its size, and its developers have managed to reduce it to 16 MB or 21 MB, depending on the version we choose. The idea they developed was to create an operating system with a graphical desktop that could be started from a CD or USB, as well as from a hard disk as much as possible.
-
-# Release cycle
+#  Release cycle of Linux kernel
 The principal versions are updated every six months and long-term support versions are published every two years. Daily security and other updates run as needed, usually daily.
 
 # Versions
@@ -49,5 +46,5 @@ The principal versions are updated every six months and long-term support versio
 * Its thirty versions was 10.15 Stable version, which, its release date was June 11, 2019
 * Its thirty-one versions was 11.05 Stable version, which, its release date was February 9, 2020
 
-# NEXT VERSIONS
+# Next versions
 We found its latest and most updated version, LINUX CORE 13.1, with the following features: Linux kernel version updated to 5.15.10. glibc updated to 2.34 gcc updated to 11.2.0.

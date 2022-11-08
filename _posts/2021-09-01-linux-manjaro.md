@@ -11,10 +11,7 @@ title: Linux Manjaro release cycle
     </div>
 </div>
 
-# Linux Manjaro
-Manjaro it’s the future of screenshots, or Manjaro is a GNU/Linux distribution that uses Xfce, KDE or GNOME Shell as the default user interface. It’s basically a free PC operating system that focuses on ease of use. Manjaro Linux offers multimedia support as standard, a robust solution for hardware detection, support for multiple kernel versions and a graphical installation process. The rolling release development model means that the user does not need to reinstall the system at every launch. The installation is done by means of a simple graphical installer called Thus (since version 15.09 Calamares is used as an alternative installer) or by means of a semi-graphical terminal interface that allows greater customization.
-
-# Release cycle
+# Release cycle of Linux Manjaro 
 Manjaro adopts a continuous release development model, and the central system itself will not be replaced, but will be continuously updated and updated. Therefore, there is no need to reinstall later versions of Manjaro to enjoy the latest and updated system. By keeping your existing installation updated, you are already running the latest version. You never need a major system update. Just keep running the small update as usual and you will always have the latest version.
 
 # Versions
@@ -49,5 +46,5 @@ Manjaro adopts a continuous release development model, and the central system it
 * Its thirty-one version was 20.2 Nibia, whose release date was 3 December 2020 with 5.9.
 * Finally its latest version was 21.0 Ornara, whose release date was 23 March 2021 with 5.10, which currently has the following features: LTS Xfce 4.16, KDE Plasma 5.21, Gnome 3.38.
 
-# NEXT VERSIONS
+# Next versions
 Manjaro announce the release of a new update for «Manjaro Linux 21.3», in which several updates of different components are made, among which the update of the environment stands out, as well as the installer, etc. more. This new update of the distribution, highlights that the installer has been updated to the latest version of the framework Calamares, This has improved support for encrypted partitions with LUKS and has also been extended in the installation module to edit disk partitions.

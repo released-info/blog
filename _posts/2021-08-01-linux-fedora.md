@@ -11,11 +11,7 @@ title: Linux Fedora release cycle
     </div>
 </div>
 
-# Linux Fedora
-Fedora Server is a powerful and flexible operating system that incorporates the best and latest data center technologies. Gives you control over all services and infrastructure. Learn more. Fedora IoT provides a reliable open-source platform that serves as a solid foundation for the IoT ecosystem. To do this Linux is used, which is a much more stable system than Windows, this is mainly due to its level of customization that allows it to fit and work effectively on any computer. Due to its stability, Linux is widely used to manage servers on the Internet.
-Fedora is distributed as an installation DVD or a set of 5 CDs. All the packages offered are selected to provide a wide range of use, from home to professional, without neglecting system administrators and software developers.
-
-# Release cycle
+# Release cycle of Linux Fedora
 The Fedora Project releases a new version of Fedora Linux approximately every six months and provides updated (maintenance) packages for those versions for approximately 13 months. Version N-2 ends 4 weeks after the release of version N of Fedora Linux.
 
 # Versions
@@ -54,5 +50,5 @@ The Fedora Project releases a new version of Fedora Linux approximately every si
 * Fedora 34 released on April 20, 2021 with these major new features: Linux kernel version 5.11; Default systemd -oomd activation; Routing all audio through PipeWire; GNOME 40.0; Default Wayland activation with KDE Plasma ; Plasma 5.21.
 * Fedora 35 Was scheduled for October 18, 2021. The main innovations will be: Linux kernel in version 5.12; GNOME 42.0; OpenSSL 3.0; Python 3.10; PHP 8.0.
 
-# NEXT VERSIONS
+# Next versions
 The Fedora Project recently announced the beta version of its upcoming release "Fedora Linux 37", which is expected to be available by the end of 2022, with some of the latest GNU/Linux technologies. Fedora Linux 37 is expected to provide official support for Raspberry Pi 4, including accelerated graphics and other enhancements, support for the upcoming Workstation version of the GNOME 43 desktop environment and the upcoming Linux 6.0 kernel. Meanwhile, the release of Fedora Linux 37 Spins is expected to be released along with the KDE Plasma 5.26, Xfce 4.16, LXQt 1.1.0, MATE 1.26 and Cinnamon 5.4 desktop environments.

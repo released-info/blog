@@ -11,10 +11,7 @@ title: Linux Ubuntu release cycle
     </div>
 </div>
 
-# Linux Ubuntu
-Ubuntu is a free operating system based on Debian and the most widely used GNU/Linux distribution today. It was released in 2004 and has been continuously updated since then. This has resulted in significant improvements in performance, safety and ease of use, making big leaps in recent years. It is available in over 130 languages. This is the main alternative for different versions of Windows, and the big advantage is that it is free for anyone to download and use. It is distributed under the GPL license and contains an extensive catalog of free software that allows you to perform any type of task.
-
-# Release cycle
+# Release cycle of Linux Ubuntu 
 There are 2 types of Ubuntu versions: provisional and LTS. Each Ubuntu LTS is maintained for a total of 10 years: 5 years of main support + 5 years of ESM. The provisional versions are kept for 9 months.
 
 # Versions
@@ -50,5 +47,5 @@ There are 2 types of Ubuntu versions: provisional and LTS. Each Ubuntu LTS is ma
 * Ubuntu 21.10 (codename Impish Indri)
 * Ubuntu 22.04 LTS, codename Jammy Jellyfish, was made available to the public on 21 April 2022.
 
-# NEXT VERSIONS
+# Next versions
 Ubuntu 22.10 Beta is the next release in which we will find surprising news, although not a significant release due to its "intermediate" character and limited support for only nine months. The most notable novelty of Ubuntu 22.10 is PipeWire as a default audio server instead of Pulse Audio, so Ubuntu users will no longer have to do anything to use the new standard for media routing and channel management, o Linux.

@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Linux kernel 
+title: Linux kernel release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
         <img src="/images/linux_logo.png" alt="Linux kernel logo"/>
     </div>
     <div class="col-sm-10">
-        Tiny Core Linux is a minimalist operating system that uses as a base a simplified and modified Linux kernel, along with BusyBox and FLTK, to provide users with the essential tools to make a computer fully functional. Its main feature is undoubtedly its size, and its developers have managed to reduce it to 16 MB or 21 MB, depending on the version we choose.
+        Tiny kernel Linux is a minimalist operating system that uses as a base a simplified and modified Linux kernel, along with BusyBox and FLTK, to provide users with the essential tools to make a computer fully functional. Its main feature is undoubtedly its size, and its developers have managed to reduce it to 16 MB or 21 MB, depending on the version we choose.
     </div>
 </div>
 
-# INTRODUCTION OF THECNOLOGY
-Tiny Core Linux is a minimalist operating system that uses as a base a simplified and modified Linux kernel, along with BusyBox and FLTK, to provide users with the essential tools to make a computer fully functional. Its main feature is undoubtedly its size, and its developers have managed to reduce it to 16 MB or 21 MB, depending on the version we choose. The idea they developed was to create an operating system with a graphical desktop that could be started from a CD or USB, as well as from a hard disk as much as possible.
+# Linux kernel
+Tiny kernel Linux is a minimalist operating system that uses as a base a simplified and modified Linux kernel, along with BusyBox and FLTK, to provide users with the essential tools to make a computer fully functional. Its main feature is undoubtedly its size, and its developers have managed to reduce it to 16 MB or 21 MB, depending on the version we choose. The idea they developed was to create an operating system with a graphical desktop that could be started from a CD or USB, as well as from a hard disk as much as possible.
 
-# RELEASES CYCLES
+# Release cycle
 The principal versions are updated every six months and long-term support versions are published every two years. Daily security and other updates run as needed, usually daily.
 
-# VERSIONS
+# Versions
 * Its first version was 1.05, Stable version, which, its release date was 5 January 2009
 * Its second version was 2.05 Stable version, which, its release date was 7 June 2009
 * Its third version was 3.05 Stable version, which, its release date was July 19, 2010

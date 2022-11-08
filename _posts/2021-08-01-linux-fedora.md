@@ -4,7 +4,7 @@ title: Linux Fedora release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/linux_logo.png" alt="Linux kernel logo"/>
+        <img src="/images/linux-fedora.png" alt="Linux Fedora logo"/>
     </div>
     <div class="col-sm-10">
         Fedora Server is a powerful and flexible operating system that incorporates the best and latest data center technologies. Gives you control over all services and infrastructure. Learn more. Fedora IoT provides a reliable open-source platform that serves as a solid foundation for the IoT ecosystem. To do this Linux is used, which is a much more stable system than Windows, this is mainly due to its level of customization that allows it to fit and work effectively on any computer.

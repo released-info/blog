@@ -4,7 +4,7 @@ title: iOS release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/android-logo.png" alt="android logo"/>
+        <img src="/images/ios-logo.png" alt="ios logo"/>
     </div>
     <div class="col-sm-10">
         The iOS Release Cycle is a series of steps in the development of iOS applications that allow developers to test and deploy their apps to the Apple App Store. This process ensures that all iOS apps have been thoroughly tested and approved for distribution on the App Store. This article will provide an overview of the iOS Release Cycle, its history, common uses, and code examples.

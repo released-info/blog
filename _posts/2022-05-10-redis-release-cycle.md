@@ -4,7 +4,7 @@ title: Redis release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/maria-db.png" alt="MariaDB logo"/>
+        <img src="/images/redis.png" alt="Redis logo"/>
     </div>
     <div class="col-sm-10">
         Redis is an open-source, in-memory data structure store used for building high-performance, low-latency applications. It is often used as a key-value store, but also works well as a message broker, job queue, and caching system. Redis is consistently being improved and updated, with new features and bug fixes released on a regular basis. This article will provide an overview of the Redis release cycle, including the different versions available, how they are maintained, and when they are released.

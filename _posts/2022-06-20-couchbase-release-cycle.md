@@ -4,7 +4,7 @@ title: CouchDB release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/hbase-logo.png" alt="hbase logo"/>
+        <img src="/images/couchbase-logo.png" alt="hbase logo"/>
     </div>
     <div class="col-sm-10">
         Apache Couchbase is a major open-source NoSQL database technology that can be used in the software engineering development process. It has been around for quite some time and is used by many companies to develop applications as well as store data.

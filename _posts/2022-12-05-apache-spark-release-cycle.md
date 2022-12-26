@@ -12,30 +12,41 @@ title: Apache Spark release cycle
   </div>
 </div>
 
-
 # Apache Spark Release Cycle
 
-The first version of Apache Spark was released in March of 2010, and has since become one of the most popular tools for working with big data. Over the years, the Apache Spark team has continuously improved the software through regular releases.
+The first version of Apache Spark was released in March of 2010, and has since become one of the most popular tools for
+working with big data. Over the years, the Apache Spark team has continuously improved the software through regular
+releases.
 
-Since its initial release, there have been over 50 versions of Apache Spark released. Each version has included numerous improvements to the software, from optimizing performance and stability to introducing new features and bug fixes.
+Since its initial release, there have been over 50 versions of Apache Spark released. Each version has included numerous
+improvements to the software, from optimizing performance and stability to introducing new features and bug fixes.
 
 ## Versions
 
-There are two main types of releases for Apache Spark: major and minor. Major releases generally introduce significant new features, while minor releases focus on bug fixes and optimizations. Minor releases occur more frequently, usually every few months, while major releases can be up to a year apart.
+There are two main types of releases for Apache Spark: major and minor. Major releases generally introduce significant
+new features, while minor releases focus on bug fixes and optimizations. Minor releases occur more frequently, usually
+every few months, while major releases can be up to a year apart.
 
-In addition to major and minor releases, the Apache Spark team also releases patch releases. Patch releases are issued to address specific issues or bugs in the software, and they usually come out soon after a major or minor release.
+In addition to major and minor releases, the Apache Spark team also releases patch releases. Patch releases are issued
+to address specific issues or bugs in the software, and they usually come out soon after a major or minor release.
 
 ## Features
 
-Each major release of Apache Spark includes several new features, ranging from performance enhancements to new algorithms and APIs. Some of the new features included in the 2.4.4 release included a Dynamic Partition Pruning feature, improved multi-tenancy support, and higher performance for DataFrames and SQL queries.
+Each major release of Apache Spark includes several new features, ranging from performance enhancements to new
+algorithms and APIs. Some of the new features included in the 2.4.4 release included a Dynamic Partition Pruning
+feature, improved multi-tenancy support, and higher performance for DataFrames and SQL queries.
 
-In addition to the new features, major releases also include several bug fixes and performance improvements. For example, the 2.4.4 release included numerous bug fixes, as well as optimizations to reduce the amount of memory consumed during operations.
+In addition to the new features, major releases also include several bug fixes and performance improvements. For
+example, the 2.4.4 release included numerous bug fixes, as well as optimizations to reduce the amount of memory consumed
+during operations.
 
 ## Benefits
 
-By using the latest version of Apache Spark, users can take advantage of the newest features, bug fixes, and performance optimizations. This helps ensure that their applications run more efficiently and reliably, leading to better results.
+By using the latest version of Apache Spark, users can take advantage of the newest features, bug fixes, and performance
+optimizations. This helps ensure that their applications run more efficiently and reliably, leading to better results.
 
-Additionally, staying up-to-date with the latest release of Apache Spark also makes it easier to upgrade in the future. As new versions of the software are released, upgrading will be simpler, faster, and less disruptive.
+Additionally, staying up-to-date with the latest release of Apache Spark also makes it easier to upgrade in the future.
+As new versions of the software are released, upgrading will be simpler, faster, and less disruptive.
 
 ## Examples
 
@@ -43,9 +54,12 @@ The following examples show how to use some of the features introduced in the 2.
 
 ### Dynamic Partition Pruning
 
-Dynamic Partition Pruning is a new feature that enables users to prune partitions when running queries on large DataFrames or tables. When enabled, this feature optimizes the query to only read and process the data from the partitions that are needed, which can significantly improve query performance.
+Dynamic Partition Pruning is a new feature that enables users to prune partitions when running queries on large
+DataFrames or tables. When enabled, this feature optimizes the query to only read and process the data from the
+partitions that are needed, which can significantly improve query performance.
 
-To enable Dynamic Partition Pruning, set the spark.sql.dynamicPartitionPruning configuration option to true. The following example shows how to enable it in a Spark application:
+To enable Dynamic Partition Pruning, set the spark.sql.dynamicPartitionPruning configuration option to true. The
+following example shows how to enable it in a Spark application:
 
 ```
 val spark = SparkSession.builder
@@ -55,9 +69,12 @@ val spark = SparkSession.builder
 
 ### Improved Multi-tenancy Support
 
-Apache Spark 2.4.4 includes improved multi-tenancy support, which enables users to run multiple applications on the same cluster without impacting performance or resource usage. By enabling multi-tenancy, users can run multiple applications simultaneously and manage them more easily.
+Apache Spark 2.4.4 includes improved multi-tenancy support, which enables users to run multiple applications on the same
+cluster without impacting performance or resource usage. By enabling multi-tenancy, users can run multiple applications
+simultaneously and manage them more easily.
 
-To enable multi-tenancy, set the spark.deploy.recoveryMode configuration option to ZOOKEEPER. The following example shows how to enable this feature in a Spark application:
+To enable multi-tenancy, set the spark.deploy.recoveryMode configuration option to ZOOKEEPER. The following example
+shows how to enable this feature in a Spark application:
 
 ```
 val spark = SparkSession.builder
@@ -67,4 +84,7 @@ val spark = SparkSession.builder
 
 ## Conclusion
 
-The Apache Spark release cycle is an important part of keeping the software up-to-date with the latest features, bug fixes, and performance optimizations. Each release introduces new features and improvements, making it easier to stay up-to-date and take advantage of the latest features. Additionally, staying up-to-date with the latest version of Apache Spark makes it easier to upgrade in the future.
+The Apache Spark release cycle is an important part of keeping the software up-to-date with the latest features, bug
+fixes, and performance optimizations. Each release introduces new features and improvements, making it easier to stay
+up-to-date and take advantage of the latest features. Additionally, staying up-to-date with the latest version of Apache
+Spark makes it easier to upgrade in the future.

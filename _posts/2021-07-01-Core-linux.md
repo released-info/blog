@@ -11,10 +11,13 @@ title: Linux kernel release cycle
     </div>
 </div>
 
-#  Release cycle of Linux kernel
-The principal versions are updated every six months and long-term support versions are published every two years. Daily security and other updates run as needed, usually daily.
+# Release cycle of Linux kernel
+
+The principal versions are updated every six months and long-term support versions are published every two years. Daily
+security and other updates run as needed, usually daily.
 
 # Versions
+
 * Its first version was 1.05, Stable version, which, its release date was 5 January 2009
 * Its second version was 2.05 Stable version, which, its release date was 7 June 2009
 * Its third version was 3.05 Stable version, which, its release date was July 19, 2010
@@ -47,4 +50,6 @@ The principal versions are updated every six months and long-term support versio
 * Its thirty-one versions was 11.05 Stable version, which, its release date was February 9, 2020
 
 # Next versions
-We found its latest and most updated version, LINUX CORE 13.1, with the following features: Linux kernel version updated to 5.15.10. glibc updated to 2.34 gcc updated to 11.2.0.
+
+We found its latest and most updated version, LINUX CORE 13.1, with the following features: Linux kernel version updated
+to 5.15.10. glibc updated to 2.34 gcc updated to 11.2.0.

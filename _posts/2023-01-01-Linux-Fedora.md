@@ -12,109 +12,70 @@ title: Perl release cycle
     </div>
 </div>
 
-
 # What is Linux Fedora?
-Linux Fedora is a Linux-based operating system developed by the Fedora Project as a free, open source alternative to other popular operating systems. The Fedora Project is an open source community-driven project sponsored by Red Hat, a leading Linux and open source software provider since 1993.
 
-Fedora is developed by a large and ever-growing community of contributors, with numerous opportunities for users to get involved. It provides extensive support for a huge range of hardware, applications and user configurations, including server, desktop and laptop systems. It also offers up-to-date packages from its large repository that provide users with the means to install and use nearly any application they want. 
+Linux Fedora is a Linux-based operating system developed by the Fedora Project as a free, open source alternative to
+other popular operating systems. The Fedora Project is an open source community-driven project sponsored by Red Hat, a
+leading Linux and open source software provider since 1993.
 
-Linux Fedora is a popular open source operating system (OS) developed and maintained by the Fedora Project. It is based on Red Hat Enterprise Linux (RHEL). It's used by computer users around the world to power their desktops, laptops, and servers. Fedora provides a stable, reliable, and secure platform for software development, web development, and system administration.
+Fedora is developed by a large and ever-growing community of contributors, with numerous opportunities for users to get
+involved. It provides extensive support for a huge range of hardware, applications and user configurations, including
+server, desktop and laptop systems. It also offers up-to-date packages from its large repository that provide users with
+the means to install and use nearly any application they want.
+
+Linux Fedora is a popular open source operating system (OS) developed and maintained by the Fedora Project. It is based
+on Red Hat Enterprise Linux (RHEL). It's used by computer users around the world to power their desktops, laptops, and
+servers. Fedora provides a stable, reliable, and secure platform for software development, web development, and system
+administration.
 
 ## History of Linux Fedora
-The first version of Fedora was released on November 6th, 2003, as a combination of two existing projects, Fedora Core and Red Hat Linux. It was intended to be a short-term project that would develop and maintain a targeted set of core packages for the growing Red Hat Linux user base. 
 
-Over time, the project has evolved beyond its initial ambitions, becoming a full-featured operating system with support for a wide variety of applications and hardware. Now, Fedora serves as a platform for the development of new technologies, such as Wayland and Systemd, as well as a platform for innovation in software packages, like GNOME, KDE, XFCE, and more.
+The first version of Fedora was released on November 6th, 2003, as a combination of two existing projects, Fedora Core
+and Red Hat Linux. It was intended to be a short-term project that would develop and maintain a targeted set of core
+packages for the growing Red Hat Linux user base.
 
-In 2011, Fedora became the basis for the OLPC initiative, providing a secure and reliable operating system to power low-cost laptops for developing countries. Thanks to this initiative, Fedora has played an important role in making technology more accessible worldwide. 
+Over time, the project has evolved beyond its initial ambitions, becoming a full-featured operating system with support
+for a wide variety of applications and hardware. Now, Fedora serves as a platform for the development of new
+technologies, such as Wayland and Systemd, as well as a platform for innovation in software packages, like GNOME, KDE,
+XFCE, and more.
 
-The Fedora Project was launched in 2003 as a joint venture between Red Hat and the open source development community. The goal of the project was to create a Linux-based operating system that was stable, reliable, and easy to use. The first version of Fedora was released in November of that same year, and since then it has grown in popularity and become one of the most widely-used Linux distributions.
+In 2011, Fedora became the basis for the OLPC initiative, providing a secure and reliable operating system to power
+low-cost laptops for developing countries. Thanks to this initiative, Fedora has played an important role in making
+technology more accessible worldwide.
 
-The Fedora project has been maintained by Red Hat since its inception and the company has contributed heavily to its development and upkeep over the years. However, the project is also backed by a large community of users and contributors, who help to keep the project going and provide valuable feedback and new features.
+The Fedora Project was launched in 2003 as a joint venture between Red Hat and the open source development community.
+The goal of the project was to create a Linux-based operating system that was stable, reliable, and easy to use. The
+first version of Fedora was released in November of that same year, and since then it has grown in popularity and become
+one of the most widely-used Linux distributions.
 
-The success of the project led to the creation of a series of releases, each based on a different version of the Linux kernel. This allowed developers to take advantage of newer technologies while still maintaining compatibility with older systems. Each version of Fedora also included a selection of programs and libraries designed to make it easier for users to get up and running quickly.
+The Fedora project has been maintained by Red Hat since its inception and the company has contributed heavily to its
+development and upkeep over the years. However, the project is also backed by a large community of users and
+contributors, who help to keep the project going and provide valuable feedback and new features.
 
-One of the distinguishing features of Fedora is its focus on providing the latest technology. With each new release, the project provides new tools, applications, and packages for users. This makes Fedora an ideal choice for those looking to experiment with the latest technologies or to develop their own applications.
+The success of the project led to the creation of a series of releases, each based on a different version of the Linux
+kernel. This allowed developers to take advantage of newer technologies while still maintaining compatibility with older
+systems. Each version of Fedora also included a selection of programs and libraries designed to make it easier for users
+to get up and running quickly.
 
-
-
+One of the distinguishing features of Fedora is its focus on providing the latest technology. With each new release, the
+project provides new tools, applications, and packages for users. This makes Fedora an ideal choice for those looking to
+experiment with the latest technologies or to develop their own applications.
 
 ## Features of Linux Fedora
-Fedora is highly flexible and customizable, offering users a wide range of features and options. Some of the main features it offers for Linux users include:
+
+Fedora is highly flexible and customizable, offering users a wide range of features and options. Some of the main
+features it offers for Linux users include:
 
 - Easy installation: Fedora provides an easy-to-use installation process for users who are new to the Linux environment.
 
-- Security: Fedora includes industry-leading security features, making it a trusted choice for organizations and businesses.
+- Security: Fedora includes industry-leading security features, making it a trusted choice for organizations and
+  businesses.
 
-- Extensive support: Fedora provides an extensive list of package repositories, including those for popular applications and software libraries. 
+- Extensive support: Fedora provides an extensive list of package repositories, including those for popular applications
+  and software libraries.
 
 - Stable and reliable: Fedora is designed to provide users with a stable and reliable computing experience.
 
-## Usages of Linux Fedora
-Fedora is widely used for a variety of purposes, from running web servers to powering desktop environments. Some of the most common uses for Fedora include:
-
-- Web Servers: Fedora’s Apache, Nginx, and node.js packages make it an ideal choice for hosting websites and web applications.
-
-- Software Development: Fedora’s extensive package repositories make it a great choice for software developers looking for the latest versions of programming languages, development libraries, and tools. 
-
-- Desktop Environments: Fedora’s GNOME, KDE, XFCE, and LXDE desktops make it an excellent choice for users who need a user-friendly, easy-to-use desktop environment.
-
-- Gaming: Fedora supports a wide range of gaming applications and libraries, making it an excellent choice for gamers who want access to the latest games.
-
-## Code Examples of Linux Fedora 
-Here are some examples of how to use Fedora in your own projects.
-
-### Installing Apache on Linux Fedora
-You will need root privileges to install Apache on Fedora.
-
-1. Update your system using the dnf command:
-```
-dnf update
-```
-2. Install Apache:
-```
-dnf install httpd
-```
-3. Start the Apache service:
-```
-systemctl start httpd
-```
-4. Enable the Apache service to start on boot:
-```
-systemctl enable httpd
-```
-### Running a Python Web App on Linux Fedora
-To run a Python web application on Fedora, you will need to install the necessary packages and libraries.
-
-1. Install the Python development libraries:
-```
-dnf install python-devel
-```
-2. Install the mod_wsgi module:
-```
-dnf install mod_wsgi
-```
-3. Create a virtual environment for the application:
-```
-virtualenv venv
-```
-4. Install the web application into the virtual environment:
-```
-pip install -r requirements.txt
-```
-5. Configure Apache to serve the application:
-```
-WSGIScriptAlias /app /path/to/app.wsgi
-<Directory /path/to/app.wsgi>
-     Require all granted
-</Directory>
-```
-6. Restart Apache to apply the new configuration:
-```
-systemctl restart httpd
-```
-7. Access the application at http://localhost/app.
-
-## Features of Fedora 
 
 Fedora includes a wide variety of features that make it a powerful and attractive operating system. These include:
 
@@ -127,64 +88,140 @@ Fedora includes a wide variety of features that make it a powerful and attractiv
 * Full support for virtualization and containerization technologies, such as Docker and Kubernetes.
 * System updates that are tested and verified to ensure stability and security.
 
-Fedora offers a wide range of features for users and developers alike. The system includes support for many programming languages, a package manager, a graphical user interface system, and the ability to boot into multiple environments. Additionally, Fedora offers a wide range of tools designed to improve users’ productivity including an integrated web browser and media player.
+Fedora offers a wide range of features for users and developers alike. The system includes support for many programming
+languages, a package manager, a graphical user interface system, and the ability to boot into multiple environments.
+Additionally, Fedora offers a wide range of tools designed to improve users’ productivity including an integrated web
+browser and media player.
 
-Users of Fedora also benefit from a robust security system which includes access control, firewalls, intrusion detection systems, and SELinux.
+Users of Fedora also benefit from a robust security system which includes access control, firewalls, intrusion detection
+systems, and SELinux.
 
-Fedora also includes a variety of libraries and frameworks such as the GNOME desktop environment, X Window System, and Java libraries. These libraries provide users and developers with the ability to build powerful applications that can utilize the Linux kernel.
+Fedora also includes a variety of libraries and frameworks such as the GNOME desktop environment, X Window System, and
+Java libraries. These libraries provide users and developers with the ability to build powerful applications that can
+utilize the Linux kernel.
+
+## Usages of Linux Fedora
+
+Fedora is widely used for a variety of purposes, from running web servers to powering desktop environments. Some of the
+most common uses for Fedora include:
+
+- Web Servers: Fedora’s Apache, Nginx, and node.js packages make it an ideal choice for hosting websites and web
+  applications.
+
+- Software Development: Fedora’s extensive package repositories make it a great choice for software developers looking
+  for the latest versions of programming languages, development libraries, and tools.
+
+- Desktop Environments: Fedora’s GNOME, KDE, XFCE, and LXDE desktops make it an excellent choice for users who need a
+  user-friendly, easy-to-use desktop environment.
+
+- Gaming: Fedora supports a wide range of gaming applications and libraries, making it an excellent choice for gamers
+  who want access to the latest games.
+
+Fedora is a great choice for those who want a Linux-based operating system that is secure, reliable, and user-friendly.
+It's suitable for both desktop and server use, and can be used for a variety of tasks, from web development to software
+development. Here are some usage examples of Fedora:
+
+* Setting up a home server. With full support for virtualization and containerization technologies, Fedora is ideal for
+  setting up a home server and hosting services such as websites, applications, and databases.
+
+* Developing applications. With the large selection of programming languages, libraries, and tools included in Fedora,
+  it's easy to start developing your own applications.
+
+* Creating a home media center. With the built-in media player and support for streaming audio and video, Fedora is a
+  great choice for creating a home media center.
+
+* Setting up a gaming machine. With its powerful graphics drivers, as well as support for both Windows and Linux games,
+  Fedora is a great choice for gamers.
 
 
-## Usage Examples 
+## Examples of Linux Fedora
 
-Fedora is a great choice for those who want a Linux-based operating system that is secure, reliable, and user-friendly. It's suitable for both desktop and server use, and can be used for a variety of tasks, from web development to software development. Here are some usage examples of Fedora:
+The following examples show some of the ways that Fedora can be used:
 
-* Setting up a home server. With full support for virtualization and containerization technologies, Fedora is ideal for setting up a home server and hosting services such as websites, applications, and databases.
+- Web servers: Fedora makes it easy to set up web servers and other applications through its included Apache web server
+  and MySQL database.
+- Networking: Fedora provides a variety of tools to configure, monitor, and manage networks. This allows users to use
+  their own services, such as SSH, or VPNs to securely connect to remote machines.
+- Software development: With the included C/C++ compiler and development tools, Fedora makes it easy to develop
+  applications and programs, including games.
+- Embedded devices: Fedora can be used to create embedded devices and appliances by using different libraries and
+  architectures. This makes it possible to create custom devices such as routers, set-top boxes, and more.
 
-* Developing applications. With the large selection of programming languages, libraries, and tools included in Fedora, it's easy to start developing your own applications.
+### Installing Apache on Linux Fedora
 
-* Creating a home media center. With the built-in media player and support for streaming audio and video, Fedora is a great choice for creating a home media center.
+You will need root privileges to install Apache on Fedora.
 
-* Setting up a gaming machine. With its powerful graphics drivers, as well as support for both Windows and Linux games, Fedora is a great choice for gamers.
+1. Update your system using the dnf command:
 
-## Code Examples 
-
-Using Fedora is simple and straightforward, and there are many tutorials available that can help you get started. Here is an example of a Python program that will print "Hello World!" using the GNOME Desktop environment:
-
-```python
-#!/usr/bin/env python3
-
-from gi.repository import Gtk
-
-window = Gtk.Window()
-window.set_title("Hello World!")
-
-label = Gtk.Label("Hello World!")
-window.add(label)
-
-window.connect("delete-event", Gtk.main_quit)
-window.show_all()
-
-Gtk.main()
+```
+dnf update
 ```
 
-This program creates a window with a title and adds a label with the text "Hello World!". When the window is closed, the program terminates. 
+2. Install Apache:
 
-For more information on how to use Fedora, check out the official documentation [here](https://docs.fedoraproject.org/).
+```
+dnf install httpd
+```
 
-## Examples of Usage 
+3. Start the Apache service:
 
-The following examples show some of the ways that Fedora can be used: 
+```
+systemctl start httpd
+```
 
-- Web servers: Fedora makes it easy to set up web servers and other applications through its included Apache web server and MySQL database. 
-- Networking: Fedora provides a variety of tools to configure, monitor, and manage networks. This allows users to use their own services, such as SSH, or VPNs to securely connect to remote machines.
-- Software development: With the included C/C++ compiler and development tools, Fedora makes it easy to develop applications and programs, including games. 
-- Embedded devices: Fedora can be used to create embedded devices and appliances by using different libraries and architectures. This makes it possible to create custom devices such as routers, set-top boxes, and more.
+4. Enable the Apache service to start on boot:
 
-## Code Examples 
+```
+systemctl enable httpd
+```
 
-The following examples demonstrate how to use some of the features of Fedora: 
+### Running a Python Web App on Linux Fedora
+
+To run a Python web application on Fedora, you will need to install the necessary packages and libraries.
+
+1. Install the Python development libraries:
+
+```
+dnf install python-devel
+```
+
+2. Install the mod_wsgi module:
+
+```
+dnf install mod_wsgi
+```
+
+3. Create a virtual environment for the application:
+
+```
+virtualenv venv
+```
+
+4. Install the web application into the virtual environment:
+
+```
+pip install -r requirements.txt
+```
+
+5. Configure Apache to serve the application:
+
+```
+WSGIScriptAlias /app /path/to/app.wsgi
+<Directory /path/to/app.wsgi>
+     Require all granted
+</Directory>
+```
+
+6. Restart Apache to apply the new configuration:
+
+```
+systemctl restart httpd
+```
+
+7. Access the application at http://localhost/app.
 
 ### Setting up a web server
+
 ```
 # Install Apache
 sudo dnf install httpd
@@ -200,6 +237,7 @@ sudo systemctl restart httpd
 ```
 
 ### Configuring a network
+
 ```
 # Install the network manager
 sudo dnf install NetworkManager
@@ -218,6 +256,7 @@ sudo nmcli connection up my-connection
 ```
 
 ### Setting Up a Dev Environment
+
 ```
 # Install development tools
 sudo dnf groupinstall "Development Tools"
@@ -232,18 +271,8 @@ sudo dnf install java-1.8.0-openjdk-devel
 sudo dnf install gcc-c++
 ```
 
-
-## Features
-Linux Fedora is based on the Linux kernel and is built using many open source tools and libraries. It's designed to be customizable, allowing users to customize their installation to best meet their needs. The package management system allows easy installation and updating of programs and applications. In addition, Fedora includes powerful graphical user interfaces such as GNOME and KDE that make working with the system easy for newcomers and experienced users alike.
-
-## Benefits
-Linux Fedora provides several benefits over other operating systems. It is easily customizable, meaning that the user can tailor their installation to fit their needs. It is also very secure, as security updates are released regularly to ensure the OS is safe from exploits and vulnerabilities. Additionally, Fedora's wide range of available applications and packages makes it a great choice for developers and server administrators.
-
-## Examples of Usage 
-Linux Fedora is used for a variety of purposes, ranging from web development and system administration to everyday computing tasks. It is often used as a platform for web development, with Apache, Nginx, and MySQL all being available. It can also be used to run database servers and web applications, or to create virtual machines on which to run software. Additionally, it is a popular choice for server administrators, providing a secure and stable platform on which to run their applications.
-
-## Code Examples
-Below is a simple “Hello World” example written in C language which can be used to test if the Linux Fedora environment is set up correctly:
+Below is a simple “Hello World” example written in C language which can be used to test if the Linux Fedora environment
+is set up correctly:
 
 ```
 #include <stdio.h>
@@ -273,4 +302,8 @@ Hello, World!
 ```
 
 ## Conclusion
-Linux Fedora is a popular open source operating system developed and maintained by the Fedora Project. It is based on Red Hat Linux and provides a secure and reliable platform for software development, web development, and system administration. With its wide range of available applications, ease of customization, and secure platform, it is a great choice for both experienced and novice users.
+
+Linux Fedora is a popular open source operating system developed and maintained by the Fedora Project. It is based on
+Red Hat Linux and provides a secure and reliable platform for software development, web development, and system
+administration. With its wide range of available applications, ease of customization, and secure platform, it is a great
+choice for both experienced and novice users.

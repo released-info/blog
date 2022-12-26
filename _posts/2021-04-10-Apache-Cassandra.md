@@ -274,7 +274,6 @@ SELECT * FROM my_table WHERE id = 1;
 
 This will return the record with an ID of 1.
 
-
 Cassandra is used in a variety of applications, ranging from social networks to large enterprise applications. Some
 common use cases include:
 

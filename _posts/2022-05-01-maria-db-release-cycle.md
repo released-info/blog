@@ -13,27 +13,39 @@ title: MariaDB release cycle
 
 # MariaDB Release Cycle
 
-In this article, we will explore the MariaDB release cycle and how it has been continuously developed over the years. We'll also discuss how to choose the right version of MariaDB as well as look at some code examples.
+In this article, we will explore the MariaDB release cycle and how it has been continuously developed over the years.
+We'll also discuss how to choose the right version of MariaDB as well as look at some code examples.
 
 ## History of MariaDB
 
-MariaDB was released in 2009 by MySQL founder and original developer, Michael “Monty” Widenius. After MySQL was acquired by Oracle in 2008, Widenius decided to fork the source code and create a new project that would remain free, open source, and community-oriented.
+MariaDB was released in 2009 by MySQL founder and original developer, Michael “Monty” Widenius. After MySQL was acquired
+by Oracle in 2008, Widenius decided to fork the source code and create a new project that would remain free, open
+source, and community-oriented.
 
-MariaDB quickly grew in popularity and made it into the top 20 of relational databases in use at large websites according to the DB-Engines Ranking. Today, MariaDB is a widely used database engine powering many large websites, including Wikipedia and Google.
+MariaDB quickly grew in popularity and made it into the top 20 of relational databases in use at large websites
+according to the DB-Engines Ranking. Today, MariaDB is a widely used database engine powering many large websites,
+including Wikipedia and Google.
 
 ## MariaDB Release Cycle
 
-MariaDB follows a regular software release cycle which includes versions from 5.5 to 10.5. These versions are designated as "major" releases, each of which contains important new features and updates.
+MariaDB follows a regular software release cycle which includes versions from 5.5 to 10.5. These versions are designated
+as "major" releases, each of which contains important new features and updates.
 
-Minor versions are released on an as-needed basis, with bug fixes and other smaller patches. They are usually released as needed, usually within 2 weeks of the major release.
+Minor versions are released on an as-needed basis, with bug fixes and other smaller patches. They are usually released
+as needed, usually within 2 weeks of the major release.
 
-The release cycle for MariaDB also includes "bugfix" releases which address only minor stability and security issues. These releases come out less often, typically when needed.
+The release cycle for MariaDB also includes "bugfix" releases which address only minor stability and security issues.
+These releases come out less often, typically when needed.
 
-Finally, MariaDB also participates in the Long Term Support (LTS) program, which guarantees support and security fixes for the entire duration of the LTS. Currently, the latest LTS release is MariaDB 10.4 and is slated to be supported until 2024.
+Finally, MariaDB also participates in the Long Term Support (LTS) program, which guarantees support and security fixes
+for the entire duration of the LTS. Currently, the latest LTS release is MariaDB 10.4 and is slated to be supported
+until 2024.
 
 ## Choosing the Right Version of MariaDB
 
-Choosing the right version of MariaDB for your project can be difficult. Generally, you'll want to choose the newest version available as it will have the most up-to-date features and security patches. However, if you need certain specific features or need to remain compatible with existing applications, you may opt for an older version.
+Choosing the right version of MariaDB for your project can be difficult. Generally, you'll want to choose the newest
+version available as it will have the most up-to-date features and security patches. However, if you need certain
+specific features or need to remain compatible with existing applications, you may opt for an older version.
 
 When choosing a version of MariaDB, keep in mind the following points:
 
@@ -57,7 +69,7 @@ const pool = mariadb.createPool({
     database: 'test',
     connectionLimit: 5
 });
- 
+
 let conn;
 
 try {
@@ -71,12 +83,18 @@ try {
 }
 ```
 
-In this example, we are using the `mariadb` package to create a connection pool to connect to a MariaDB database. We then use the `getConnection()` method to get a connection object from the pool and use the `query()` method to execute a simple query.
+In this example, we are using the `mariadb` package to create a connection pool to connect to a MariaDB database. We
+then use the `getConnection()` method to get a connection object from the pool and use the `query()` method to execute a
+simple query.
 
-We also use a `finally` block to ensure that the connection is closed when the execution reaches the end. This is important to ensure that the connection resources are not wasted.
+We also use a `finally` block to ensure that the connection is closed when the execution reaches the end. This is
+important to ensure that the connection resources are not wasted.
 
 ## Conclusion
 
-The MariaDB release cycle is a highly organized and efficient process that ensures new features, bugfixes, and security patches are applied to the database regularly. It also allows users to choose the right version of MariaDB for their applications, as each version has its own set of features and is supported for a certain amount of time.
+The MariaDB release cycle is a highly organized and efficient process that ensures new features, bugfixes, and security
+patches are applied to the database regularly. It also allows users to choose the right version of MariaDB for their
+applications, as each version has its own set of features and is supported for a certain amount of time.
 
-Finally, with MariaDB's steady development and growth, it has become one of the most popular open-source relational databases.
+Finally, with MariaDB's steady development and growth, it has become one of the most popular open-source relational
+databases.

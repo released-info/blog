@@ -15,20 +15,32 @@ title: Windows release cycle
 
 ## Planning and Development
 
-Microsoft starts by planning for the next version of Windows. It takes about two years for the company to develop its operating system, from designing the user experience to coding the underlying architecture. Microsoft's product teams work together with developers to create a seamless, efficient product. Once the development process is complete, Microsoft tests the new version of Windows internally, before making it available to outside testers.
+Microsoft starts by planning for the next version of Windows. It takes about two years for the company to develop its
+operating system, from designing the user experience to coding the underlying architecture. Microsoft's product teams
+work together with developers to create a seamless, efficient product. Once the development process is complete,
+Microsoft tests the new version of Windows internally, before making it available to outside testers.
 
 ## Beta Testing
 
-Once the internal testing phase is complete, Microsoft begins beta testing the new version of Windows. During this phase, external testers are given access to the pre-release version of Windows. These testers provide feedback on the software, giving Microsoft the opportunity to make changes before the public launch. This feedback helps Microsoft fine-tune the software before it is released..
+Once the internal testing phase is complete, Microsoft begins beta testing the new version of Windows. During this
+phase, external testers are given access to the pre-release version of Windows. These testers provide feedback on the
+software, giving Microsoft the opportunity to make changes before the public launch. This feedback helps Microsoft
+fine-tune the software before it is released..
 
 ## Release Preview
 
-After the beta testing phase is complete, Microsoft releases the Release Preview version of Windows. This preview version is available to the general public, but it is not complete. Microsoft provides frequent updates to the Release Preview version, giving users a chance to test the software and report any feedback.
+After the beta testing phase is complete, Microsoft releases the Release Preview version of Windows. This preview
+version is available to the general public, but it is not complete. Microsoft provides frequent updates to the Release
+Preview version, giving users a chance to test the software and report any feedback.
 
 ## Public Launch
 
-Finally, after all the testing and feedback, Microsoft launches the new version of Windows. This version is available to the public, and it is the most stable version of the software. Users can purchase the full version of the software, or upgrade to the newest version if they already own an older version.
+Finally, after all the testing and feedback, Microsoft launches the new version of Windows. This version is available to
+the public, and it is the most stable version of the software. Users can purchase the full version of the software, or
+upgrade to the newest version if they already own an older version.
 
 ## Conclusion
 
-The Windows release cycle is an important part of Microsoft's software development process. The cycle ensures that the new version of Windows is tested and refined before it is released to the public. Understanding how each phase of the release cycle works gives users and developers an insight into the development process.
+The Windows release cycle is an important part of Microsoft's software development process. The cycle ensures that the
+new version of Windows is tested and refined before it is released to the public. Understanding how each phase of the
+release cycle works gives users and developers an insight into the development process.

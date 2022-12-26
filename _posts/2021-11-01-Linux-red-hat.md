@@ -11,16 +11,28 @@ title: Linux Red Hat release cycle
     </div>
 </div>
 
-Red Hat curates, guarantees and supports a distribution of Linux, now popular as Red Hat Enterprise Linux, a change that happened in 2003 as a result of the merger with the Fedora Linux Plan. Today, Red Hat Enterprise Linux supports and powers program and technologies for automation, cloud, container, middleware, storage, application development, microservices, virtualization, management and more. Linux plays a pivotal role as the core of many of Red Hat’s offerings. It goes much further than simply being a server operating system: Linux is the foundation of the updated IT stack.
+Red Hat curates, guarantees and supports a distribution of Linux, now popular as Red Hat Enterprise Linux, a change that
+happened in 2003 as a result of the merger with the Fedora Linux Plan. Today, Red Hat Enterprise Linux supports and
+powers program and technologies for automation, cloud, container, middleware, storage, application development,
+microservices, virtualization, management and more. Linux plays a pivotal role as the core of many of Red Hat’s
+offerings. It goes much further than simply being a server operating system: Linux is the foundation of the updated IT
+stack.
 
-# Release cycle of Linux Red Hat 
-The RedHat enterprise Linux life cycle has been changing through the time, that is why it is vital to know what the changes and the life cycle of Linux have been.
+# Release cycle of Linux Red Hat
 
-Red hat enterprise linux version 7 offers full support up to 5.5 years, maintenance support up to 1 year, but Red Hat does not support extensive upgrade or extended lifetime support for Red Hat Enterprise Linux version 7.
+The RedHat enterprise Linux life cycle has been changing through the time, that is why it is vital to know what the
+changes and the life cycle of Linux have been.
 
-Red hat does understand the importance of the life cycle for the correct use and satisfaction of customers, partners and for the Linux ecosystem in general, therefore RedHat version 8 and 9 enterprise linux offers a life cycle with full support, together with an extended life cycle maintenance, being a full support the first 5 years, a maintenance support the next 5 years later and then an extended life phase two years after the first 10
+Red hat enterprise linux version 7 offers full support up to 5.5 years, maintenance support up to 1 year, but Red Hat
+does not support extensive upgrade or extended lifetime support for Red Hat Enterprise Linux version 7.
+
+Red hat does understand the importance of the life cycle for the correct use and satisfaction of customers, partners and
+for the Linux ecosystem in general, therefore RedHat version 8 and 9 enterprise linux offers a life cycle with full
+support, together with an extended life cycle maintenance, being a full support the first 5 years, a maintenance support
+the next 5 years later and then an extended life phase two years after the first 10
 
 # Versions
+
 * The version n/a where release on 29 July 1994
 * The 0.9 version where release on 31 October 1994
 * The 1.0 version where release in May 1995
@@ -58,4 +70,7 @@ Red hat does understand the importance of the life cycle for the correct use and
 * The 9.0.93 version where release on 21 July 2003
 
 # Next versions
-RHEL 9 is the new version of Red Hat Enterprise Linux published a few weeks ago in Red Hat Summit 2022. It comes almost five years after the release of Red Hat Enterprise Linux 8 and does so with interesting new features and global system optimizations that will allow us to run any environment and support any workload.
+
+RHEL 9 is the new version of Red Hat Enterprise Linux published a few weeks ago in Red Hat Summit 2022. It comes almost
+five years after the release of Red Hat Enterprise Linux 8 and does so with interesting new features and global system
+optimizations that will allow us to run any environment and support any workload.

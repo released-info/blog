@@ -26,15 +26,15 @@ Apache Solr was first released in 2004 as an open source project. The goal of th
 
 ## Features
 
-Apache Solr offers a number of powerful features, including: 
-
-- Full-text search capabilities 
-- Faceted search 
-- Geospatial search 
-- Advanced search algorithms 
-- High performance scalability 
-- Fault tolerance
-
+Apache Solr offers a variety of features for developers, including:
+* Full-text search
+* Faceted search
+* Spell checking
+* Query autocomplete
+* Geospatial search
+* Relevancy tuning
+* Highlighting
+* 
 ## Usage Examples
 
 Apache Solr is used in many different types of applications, from e-commerce sites to knowledge bases and more. Some common use cases include: 
@@ -84,25 +84,6 @@ The following code example demonstrates how to configure a Solr core and define 
 
 This example configures a Solr core with three search fields: `title`, `desc`, and `body`. The `text` field type is defined which uses both the standard Solr tokenizer and filters, as well as a synonym graph filter. This allows us to perform searches that take into account synonyms as well.
 
-## Features
-Apache Solr offers a variety of features for developers, including:
-* Full-text search
-* Faceted search
-* Spell checking
-* Query autocomplete 
-* Geospatial search
-* Relevancy tuning
-* Highlighting
-
-## Usage Examples
-Solr is used by businesses for myriad reasons, including:
-* Improving customer experience and search capabilities on ecommerce sites
-* Storing, indexing, and serving documents from legal databases
-* Powering real-time recommendations for streaming services
-* Automatically tagging images
-* Indexing logs for analytics and monitoring
-
-## Code Example
 A simple query using the Solr Query Syntax might look like this:
 
 ```
@@ -135,15 +116,6 @@ The following example performs a geospatial search for documents within a 5km ra
 http://localhost:8983/solr/collection1/select?q=*:*&fq={!geofilt%20sfield=location%20pt=37.7749,-122.4194%20d=5}
 ```
 
-## Usages 
-
-Apache Solr is widely used for search applications in website and enterprise applications. It can be used for full-text search of webpages, text documents, and even database records. It is also used for natural language processing, document summarization, and machine learning applications. Some popular websites using Apache Solr are Digg, Craigslist, Reddit, and Zappos. 
-
-Apache Solr is also used by many enterprises for indexing and searching large datasets. It is being used by major companies such as AOL, Apple, IBM, Oracle, and Salesforce. It is also used by government agencies and public universities such as the US Department of Justice, US Air Force, and Harvard University. 
-
-## Code Examples 
-
-Apache Solr is written in Java and can be used with any JVM language, including Scala, Clojure, Groovy, and Kotlin. Here's an example of how to index and search a simple document using Apache Solr: 
 
 ### Indexing
 

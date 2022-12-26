@@ -26,10 +26,6 @@ Every major version released has a life span of 3 years and is clearly defined a
    * 2 years bug fixes only
    * 1-year security fixes only
 
-## Active (Supported) PHP versions!
-
-![supported_versions]({{ site.baseurl }}/images/php-supported-versions.png "supported versions")
-
 ## Which major version will be released now and when?
 After PHP 8.0 version, released on November 26, 2020, a new PHP version, PHP 8.1, is set to release on November 25, 2021. This version is currently under active development, and it is important to note that its release date can change based on several factors.
 Besides it not being released yet, we already have a glimpse of its proposed new features, changes, depreciation, and performance improvements; so, let’s have a look.

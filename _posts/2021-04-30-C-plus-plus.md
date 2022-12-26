@@ -7,34 +7,31 @@ title: C++
         <img src="/images/cpp-logo.png" alt="cpp logo"/>
     </div>
     <div class="col-sm-10">
-        Erlang is a powerful and reliable language for developing distributed systems. It has strong support for concurrency, fault tolerance, and hot code swapping. Erlang is also widely used in many industries and applications, ranging from telecoms to banking and e-commerce.
-        Erlang is an open source, distributed, general-purpose programming language that was originally developed in 1986 by Ericsson. It is used for building robust, fault-tolerant, low-latency applications. Its primary design goals are scalability and concurrency, both of which it achieves through its lightweight processes and message passing system. Erlang has been successfully used in a number of high-demand applications including telecoms, banking, e-commerce, computer telephony, and web development.
+        C++ is a general-purpose, multi-paradigm-programming language developed by Bjarne Stroustrup at Bell Labs in 1979. It is an intermediate-level language and is used to develop applications from embedded systems to large-scale enterprise systems. 
+        Though primarily designed for code reuse and object-oriented programming, C++ also has its own strengths, such as: memory management, low-level operations, performance, and portability. With its wide range of features, C++ is one of the most acclaimed languages among the programming industry.
     </div>
 </div>
 
 # Introduction
 
 C++ is general-purpose programming language, which was developed by Bjarne Stroustrup in 1980 at Bell Labs. It is used to develop a wide range of applications, such as games, microcontrollers, operating systems, visual applications, etc. C++ is an object-oriented programming language, which means it is based on the concept of objects and can be used to create complex data structures and algorithms.
-
 C++ is an object-oriented programming language built on the C programming language. It was developed by Bjarne Stroustrup at Bell Labs in 1979 and has since been updated several times. It is widely used in many fields, including software engineering, artificial intelligence, computer graphics, robotics, embedded systems, and other sciences.
 
 ## History of C++
 
 C++ was originally designed as an extension of the C language, with additional features specifically designed to make it easier to program object-oriented applications. Stroustrup's goal was to create a language that "combines the power and efficiency of C with the flexibility and extensibility of object-oriented programming".
-
 The first version of C++, known as "C with Classes", was released in 1983. This initial version of the language was focused on providing a more powerful way to program compared to the existing C language. In 1985, the second version was released, called "C++". This version added features such as templates, classes, and virtual functions, making it much easier to write object-oriented programs.
-
 By the 1990s, C++ had become one of the most popular programming languages in the world. While some objected to its reliance on object-oriented programming systems, many saw it as an improvement over traditional procedural languages like C. As the language continued to evolve, it became more powerful, adding features like exception handling and namespaces.
 
-## Features of C++
+In the late 1970s, Bjarne Stroustrup created C++ at Bell Labs. In 1983, he released the first version of the language. It incorporated some of the best features of the language C, a popular language for system programming at the time. In addition to incorporating the useful features of C, C++ also added object-oriented concepts to the language, which allowed users to define and manipulate objects.
+In 1985, C++ was adopted by the American National Standards Institute (ANSI), making it the official standard for the language. This made C++ the most widely used language for software development. Over the years, C++ has evolved and its capabilities have grown exponentially. Today, C++ is the most popular language for developing a variety of applications, from operating systems to embedded systems and web-based applications.
+The C++ language was first released in 1985. The language was initially known as `C with classes` and was eventually standardized in 1998 by the International Organization for Standardization. Since then, it has become one of the most popular and widely used programming languages in the world.
+C++ is derived from the C language and is influenced by many other languages such as Simula 67 and ALGOL 68. The development of C++ was driven by the need for performance and efficiency. The language was designed to provide high-level abstractions while still being able to access the hardware directly.
+It has evolved over time with the introduction of new features such as object-oriented programming, templates, exceptions, and the standard template library. These features allow developers to create robust and powerful applications with greater ease.
+C++ was originally called C with Classes, as it began its life as an extension of the C language developed by Dennis Ritchie in 1972. The modern version of C++ is still a departure from its predecessor, with the additions of object-oriented programming, generic programming, and several other features that are essential in developing modern software applications.
+Despite its name, C++ does not directly involve C, but rather builds upon the syntax, design philosophy, and the underlying concepts of the language. While the two can be used together, C++ does not rely on C for its syntax or general usage, and is a complete language of its own.
 
-One of the most important features of C++ is its object-oriented programming capabilities. Object-oriented programming is a type of programming that makes it easier to work with large, complex programs. It works by grouping related data and functions into objects, which can then be used throughout the code. This makes it much easier to keep track of and manage different parts of the code.
-
-C++ also has strong support for generic programming. Generic programming is a type of programming that allows a programmer to write code that can be used with any type of data. This means that instead of writing code for each specific type of data, a programmer can write a generic function that can be used with any type of data. This makes it much easier to write code that is both efficient and flexible.
-
-Other important features of C++ include robust resource management, which allows a programmer to efficiently manage memory and other resources; strong exception handling, which makes it easier to handle errors in the code; and a large library of standard libraries, which provide the tools needed to create powerful programs.
-
-##Example of C++ Code
+## Example of C++ Code
 
 The following example is a simple program written in C++. This program will print the words "Hello World" to the console.
 
@@ -57,40 +54,9 @@ The code inside of the `main()` block is what does the actual work. The code pri
 
 C++ is an incredibly powerful and versatile programming language. It has many features that make it well-suited for both large and small projects, and its object-oriented programming capabilities make it an excellent choice for developing complex applications. Its strong support for generic programming also makes it easier to write code that is both efficient and flexible.
 
-
-## History
-
-In the late 1970s, Bjarne Stroustrup created C++ at Bell Labs. In 1983, he released the first version of the language. It incorporated some of the best features of the language C, a popular language for system programming at the time. In addition to incorporating the useful features of C, C++ also added object-oriented concepts to the language, which allowed users to define and manipulate objects.
-
-In 1985, C++ was adopted by the American National Standards Institute (ANSI), making it the official standard for the language. This made C++ the most widely used language for software development. Over the years, C++ has evolved and its capabilities have grown exponentially. Today, C++ is the most popular language for developing a variety of applications, from operating systems to embedded systems and web-based applications.
-
-The C++ language was first released in 1985. The language was initially known as `C with classes` and was eventually standardized in 1998 by the International Organization for Standardization. Since then, it has become one of the most popular and widely used programming languages in the world.
-
-C++ is derived from the C language and is influenced by many other languages such as Simula 67 and ALGOL 68. The development of C++ was driven by the need for performance and efficiency. The language was designed to provide high-level abstractions while still being able to access the hardware directly.
-
-It has evolved over time with the introduction of new features such as object-oriented programming, templates, exceptions, and the standard template library. These features allow developers to create robust and powerful applications with greater ease.
-
-C++ was originally called C with Classes, as it began its life as an extension of the C language developed by Dennis Ritchie in 1972. The modern version of C++ is still a departure from its predecessor, with the additions of object-oriented programming, generic programming, and several other features that are essential in developing modern software applications.
-
-Despite its name, C++ does not directly involve C, but rather builds upon the syntax, design philosophy, and the underlying concepts of the language. While the two can be used together, C++ does not rely on C for its syntax or general usage, and is a complete language of its own.
-
-## Features
-
-C++ is an object-oriented programming language, which means it is built on the concept of objects that contain data and code. With object-oriented programming, developers can create complex data structures and algorithms to solve specific problems.
-
-The language also provides features such as templates and exceptions. The template feature allows programmers to define generic code that can be applied to various types of data, allowing them to write code more quickly and efficiently. The exception handling feature allows developers to handle errors in an orderly fashion, reducing the likelihood of crashing a program.
-
-C++ also supports the Standard Template Library (STL). The STL is a collection of powerful algorithms and data structures that can be used by a programmer to simplify their work. It makes it easier for developers to write efficient code and helps reduce the overall development time.
-
-## Usage
-
 C++ is used in various areas such as embedded systems and game development. Embedded systems use C++ for their low-level functions and game development requires it to create high-performance graphics and animation. Additionally, C++ is often used in scientific computing, artificial intelligence, machine learning, and image processing.
-
 The language is also used in web development, particularly for server-side development and large applications. Many web frameworks such as Django and Ruby on Rails are written in C++.
 
-## Examples
-
-Here are some examples of C++ code:
 
 ### Hello World
 
@@ -163,15 +129,15 @@ int main()
 }
 ```
 
-
-
-# C++
-
-C++ is a general-purpose, multi-paradigm-programming language developed by Bjarne Stroustrup at Bell Labs in 1979. It is an intermediate-level language and is used to develop applications from embedded systems to large-scale enterprise systems. 
-
-Though primarily designed for code reuse and object-oriented programming, C++ also has its own strengths, such as: memory management, low-level operations, performance, and portability. With its wide range of features, C++ is one of the most acclaimed languages among the programming industry.
-
 ## Features of C++
+
+One of the most important features of C++ is its object-oriented programming capabilities. Object-oriented programming is a type of programming that makes it easier to work with large, complex programs. It works by grouping related data and functions into objects, which can then be used throughout the code. This makes it much easier to keep track of and manage different parts of the code.
+C++ also has strong support for generic programming. Generic programming is a type of programming that allows a programmer to write code that can be used with any type of data. This means that instead of writing code for each specific type of data, a programmer can write a generic function that can be used with any type of data. This makes it much easier to write code that is both efficient and flexible.
+Other important features of C++ include robust resource management, which allows a programmer to efficiently manage memory and other resources; strong exception handling, which makes it easier to handle errors in the code; and a large library of standard libraries, which provide the tools needed to create powerful programs.
+
+C++ is an object-oriented programming language, which means it is built on the concept of objects that contain data and code. With object-oriented programming, developers can create complex data structures and algorithms to solve specific problems.
+The language also provides features such as templates and exceptions. The template feature allows programmers to define generic code that can be applied to various types of data, allowing them to write code more quickly and efficiently. The exception handling feature allows developers to handle errors in an orderly fashion, reducing the likelihood of crashing a program.
+C++ also supports the Standard Template Library (STL). The STL is a collection of powerful algorithms and data structures that can be used by a programmer to simplify their work. It makes it easier for developers to write efficient code and helps reduce the overall development time.
 
 The C++ language has many features that make it an excellent choice for application development, such as:
 
@@ -239,20 +205,6 @@ Hello World!
 
 As you can see, C++ is an easy to understand and powerful language that can be used for a wide range of applications. From gaming to embedded systems, C++ is a versatile language that can help developers create efficient, solid applications.
 
-
-# <span style="color:blue">C++</span>
-
-## Uses 
-C++ is a versatile language and is used to develop a variety of applications, including operating systems, embedded systems, applications, games and much more. Some examples of applications developed using C++ include Adobe Photoshop, Google Chrome, Microsoft Office, Skype and Windows. 
-
-C++ is also widely used in scientific research, engineering, banking and finance, and medical software development. C++ is also used in areas like artificial intelligence, virtual reality and machine learning, as it allows for faster processing of data compared to other languages. 
-
-## Features 
-C++ is an object-oriented language, which means that it allows users to define and manipulate objects. This allows developers to code in an organized and structured way. 
-
-C++ also offers strong type checking and an extremely efficient memory management system. This makes it very well suited for developing high-performance programs. Furthermore, C++ supports the Standard Template Library (STL) which provides a wide range of features that can greatly extend the capabilities of the language. 
-
-## Code Example
 Here is a basic “Hello World” program written in C++. 
 ```cpp
 #include <iostream>

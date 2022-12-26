@@ -4,7 +4,7 @@ title: Microsoft .NET release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/csharp-logo.png" alt="Microsoft .NET"/>
+        <img src="/images/net-logo.png" alt="Microsoft .NET"/>
     </div>
     <div class="col-sm-10">
         NET is a software development ecosystem and framework created and supported by Microsoft. The goal for creating this framework enables easy engineering of desktop and web applications. This platform has provided an ideal programming ecosystem for most phases of software development. It has also been used for several different application types due to its popular free platform.

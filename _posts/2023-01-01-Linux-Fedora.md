@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perl release cycle
+title: Linux Fedora
 ---
 <div class="row">
     <div class="col-sm-2">

@@ -4,7 +4,7 @@ title: Linux Mint
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/c-logo.png" alt="C logo"/>
+        <img src="/images/mint-logo.png" alt="linux mint logo"/>
     </div>
     <div class="col-sm-10">
         Linux Mint is an open-source and freely available operating system based on the popular Ubuntu Linux distribution. It is primarily designed for use on desktop computers, laptops, and other personal computer hardware platforms. Linux Mint was first released in 2006 and has been regularly updated since then with the most recent version being Linux Mint 19.1 (Tessa).

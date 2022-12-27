@@ -8,7 +8,6 @@ title: PostgreSQL
     </div>
     <div class="col-sm-10">
         PostgreSQL is an open source, object-relational database management system. It is a powerful and reliable database solution that is well suited for a wide variety of applications, such as web applications, data warehousing, and geographic information systems. It supports a wide range of features, such as advanced query optimization, stored procedures, triggers, and support for complex data types. PostgreSQL is a popular choice for many applications and is becoming increasingly more popular and widely used.
-
    </div>
 </div>
 

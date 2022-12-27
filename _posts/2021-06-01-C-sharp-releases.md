@@ -4,7 +4,7 @@ title: C# release cycle
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/csharp-logo.png" alt="Microsoft .NET"/>
+        <img src="/images/csharp-logo.png" alt="c# .NET"/>
     </div>
     <div class="col-sm-10">
         C# (or C Sharp) is a general-purpose, object-oriented programming language developed by Microsoft and released in 2002. It is part of the .NET framework and can be used to develop software for Windows, Mac, Linux, Android, and iOS. C# is a strongly typed language, meaning that all types of data must be declared before they can be used in a program.

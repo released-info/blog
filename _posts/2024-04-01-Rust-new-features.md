@@ -59,12 +59,12 @@ The introduction of `..=x` ranges in patterns allows developers to create more c
 
 Rust is a modern programming language that has gained widespread popularity for its focus on safety, performance, and concurrency. Its journey from an experimental project to a widely adopted language in system programming is an inspiring story of innovation and community-driven development.
 
-## **Origins: Mozilla’s Experimental Project (2006-2010)**
+## Origins: Mozilla’s Experimental Project (2006-2010)
 Rust was originally conceived in **2006** by **Graydon Hoare**, a Mozilla employee, as a personal side project. Hoare aimed to create a language that would address common memory safety issues found in C and C++ while maintaining high performance.
 
 In **2009**, Mozilla officially began sponsoring Rust, recognizing its potential for building reliable and secure software. By **2010**, Rust was publicly announced, and its development transitioned into an open-source project, with contributions from a growing community of developers.
 
-## **Early Development and Stability (2010-2015)**
+## Early Development and Stability (2010-2015)
 During this period, Rust went through significant iterations as its core concepts were refined:
 
 - **Ownership System:** One of Rust’s defining features, the ownership model, was designed to eliminate memory safety issues at compile time without requiring a garbage collector.
@@ -73,7 +73,7 @@ During this period, Rust went through significant iterations as its core concept
 
 Rust **1.0** was officially released in **May 2015**, marking a milestone in stability and commitment to backward compatibility.
 
-## **Growth and Industry Adoption (2016-2020)**
+## Growth and Industry Adoption (2016-2020)
 After Rust 1.0, the language saw rapid adoption and significant improvements:
 
 - **Memory Safety Without Garbage Collection:** Rust gained attention for allowing memory safety without the need for a runtime garbage collector, making it suitable for low-level system programming.
@@ -82,7 +82,7 @@ After Rust 1.0, the language saw rapid adoption and significant improvements:
 
 The Rust community also grew significantly, with the language consistently ranking as the **"Most Loved Language"** in Stack Overflow surveys.
 
-## **Rust’s Maturity and Official Recognition (2021-Present)**
+## Rust’s Maturity and Official Recognition (2021-Present)
 By **2021**, Rust had reached a level of maturity where major organizations recognized its value:
 
 - **Microsoft’s Adoption:** Microsoft started integrating Rust into critical Windows components, moving away from C++ for security-sensitive code.

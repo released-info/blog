@@ -7,7 +7,14 @@ title: Securing Enterprise Environments with Red Hat Enterprise Linux (RHEL)
         <img src="/images/linux-red-hat.png" alt="Linux Red Hat logo"/>
     </div>
     <div class="col-sm-10">
-        Red Hat Enterprise Linux (RHEL) is widely used in enterprise environments where security and stability are top priorities. RHEL provides a robust security framework, including mandatory access controls, vulnerability scanning, and compliance tools. This article explores the key security features in RHEL and best practices for securing enterprise deployments.
+        Red Hat Enterprise Linux (RHEL) is widely used for its security and stability.
+        It incorporates SELinux for mandatory access controls, system hardening features, and tools like OpenSCAP and Red Hat Insights for vulnerability management.
+        Regular security updates, firewall configurations, and SSH access restrictions enhance protection.
+        RHEL follows a structured release model, with major versions supported for up to 10 years.
+        RHEL 6 introduced virtualization and ext4, RHEL 7 adopted systemd and XFS, RHEL 8 improved package management and containerization,
+        and RHEL 9 enhanced security, automation, and observability.
+        Organizations should choose versions based on stability needs, leveraging RHEL’s long-term support.
+        Keeping systems updated and following best practices ensures a secure and optimized enterprise environment.
     </div>
 </div>
 
@@ -84,6 +91,31 @@ Best Practices:
 * Scan containers for vulnerabilities with podman scan
 * Limit container privileges with --security-opt=no-new-privileges
 
+# A Guide to Red Hat Enterprise Linux (RHEL) Versions and Their Evolution
+
+Red Hat Enterprise Linux (RHEL) is one of the most widely used Linux distributions in enterprise environments, offering long-term stability, security, and performance. Red Hat has continuously evolved RHEL to meet modern IT needs, with each release bringing significant improvements in security, containerization, automation, and cloud integration.
+
+## Understanding Red Hat's Release Model
+
+Red Hat follows a predictable release cycle, with major RHEL versions receiving up to 10 years of support. This includes a **Full Support phase** (typically five years), followed by a **Maintenance Support phase** (another five years), and optional **Extended Lifecycle Support (ELS)** for critical updates beyond the standard lifecycle.
+
+## Key RHEL Versions and Their Features
+
+### RHEL 6 (2010 – 2024, ELS available)
+RHEL 6 introduced better virtualization support with KVM, improved file system performance with ext4, and enhanced security through SELinux refinements. It also included SystemTap for advanced system monitoring and troubleshooting.
+
+### RHEL 7 (2014 – 2026, ELS available)
+RHEL 7 marked a major shift with the adoption of **systemd** as the default init system, replacing SysVinit for better boot performance and service management. It introduced **XFS** as the default file system, improved networking with firewalld, and enhanced container support with Docker and Kubernetes integration.
+
+### RHEL 8 (2019 – 2029, ELS available)
+RHEL 8 modernized the platform with **AppStreams**, allowing multiple versions of software packages to be installed and managed easily. It replaced **Yum** with **DNF**, improving package management performance. **Podman** and **Buildah** provided a rootless, daemonless container experience, making it a strong alternative to Docker. The introduction of **Stratis** simplified storage management, while **Cockpit** improved system administration with a web-based interface.
+
+### RHEL 9 (2022 – 2032)
+RHEL 9, the latest version, builds on RHEL 8’s improvements with a focus on security, automation, and performance. It features **enhanced SELinux policies**, **TLS 1.3 by default**, and improved cryptographic policies for better security. **Kernel 5.14** brings performance and efficiency gains. New system-wide observability tools, including **eBPF**, enhance real-time monitoring. RHEL 9 also introduces **Image Builder** for simplified OS image creation and **Live Patching** to apply kernel updates without system reboots.
+
+## Choosing the Right RHEL Version
+
+Organizations running legacy applications may rely on **RHEL 7 or 8** with extended support, while businesses adopting modern infrastructure benefit from **RHEL 9** with its security and automation enhancements. RHEL’s extended support model ensures enterprises can plan migrations without disrupting critical workloads.
 
 # Conclusion
 

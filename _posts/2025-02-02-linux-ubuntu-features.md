@@ -4,7 +4,7 @@ title: Exploring the New Features in Ubuntu Linux
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/deep-seek-logo.png" alt="Deep Seek logo"/>
+        <img src="/images/linux-ubuntu.png" alt="Linux Ubuntu logo"/>
     </div>
     <div class="col-sm-10">
         Ubuntu continues to innovate with each new release, focusing on security, performance, and usability.

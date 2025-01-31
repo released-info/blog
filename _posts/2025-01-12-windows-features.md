@@ -18,7 +18,7 @@ title: The Evolution of Windows - Features, Performance, and Future Trends
     </div>
 </div>
 
-<meta property="og:title" content="The Evolution of Windows: Features, Performance, and Future Trends">
+<meta property="og:title" content="The Evolution of Windows Features, Performance, and Future Trends">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://blog.released.info/2025/01/12/windows-features.html">
 <meta property="og:image" content="https://blog.released.info/images/windows-evolution.jpg">

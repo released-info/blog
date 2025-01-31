@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unveiling Apache Spark 4.0: A New Era in Big Data Processing
+title: Unveiling Apache Spark 4.0 - A New Era in Big Data Processing
 ---
 <div class="row">
     <div class="col-sm-2">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Evolution of Perl: From Perl 5 to Perl 7
+title: The Evolution of Perl - From Perl 5 to Perl 7
 ---
 <div class="row">
     <div class="col-sm-2">

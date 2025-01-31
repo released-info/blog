@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu 24.10 Oracular Oriole: A Comprehensive Overview of New Features
+title: Ubuntu 24.10 Oracular Oriole - A Comprehensive Overview of New Features
 ---
 <div class="row">
     <div class="col-sm-2">

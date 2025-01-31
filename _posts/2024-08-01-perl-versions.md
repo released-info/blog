@@ -4,7 +4,7 @@ title: The Evolution of Perl - From Perl 5 to Perl 7
 ---
 <div class="row">
     <div class="col-sm-2">
-        <img src="/images/perl.png" alt="perl logo"/>
+        <img src="/images/perl-logo.png" alt="perl logo"/>
     </div>
     <div class="col-sm-10">
         The Evolution of Perl: What Happened to Perl 6 and Why Perl 7 Was Cancelled

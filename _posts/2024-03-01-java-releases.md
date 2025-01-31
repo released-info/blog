@@ -7,7 +7,13 @@ title: Understanding Java Release Cycle and Versioning
         <img src="/images/java.png" alt="Java logo"/>
     </div>
     <div class="col-sm-10">
-        Java follows a time-driven release cycle, introducing new versions every six months, with Long-Term Support (LTS) releases every two years. LTS versions like Java 11, 17, and 21 receive updates for at least eight years, making them ideal for enterprise applications. Non-LTS versions, such as Java 12 and 13, offer early access to features but are supported for only six months. Java's versioning follows the format <major>.<minor>.<security>+<build>, ensuring consistency. This model benefits developers by providing frequent improvements to the language and JVM while maintaining stability through LTS releases. Organizations should choose LTS versions for reliability, while developers wanting the latest features can use interim releases. This approach keeps Java innovative yet stable.
+        Java follows a time-driven release cycle, introducing new versions every six months, with Long-Term Support (LTS) releases every two years.
+         LTS versions like Java 11, 17, and 21 receive updates for at least eight years, making them ideal for enterprise applications.
+         Non-LTS versions, such as Java 12 and 13, offer early access to features but are supported for only six months.
+         Java's versioning follows the format &lt;major&gt;.&lt;minor&gt;.&lt;security&gt;+&lt;build&gt;, ensuring consistency.
+         This model benefits developers by providing frequent improvements to the language and JVM while maintaining stability through LTS releases.
+         Organizations should choose LTS versions for reliability, while developers wanting the latest features can use interim releases.
+         This approach keeps Java innovative yet stable.
     </div>
 </div>
 

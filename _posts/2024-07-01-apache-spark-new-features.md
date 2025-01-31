@@ -14,7 +14,8 @@ title: Unveiling Apache Spark 4.0 - A New Era in Big Data Processing
        PySpark improvements make Python workflows more efficient.
        Apache Spark remains a top choice for big data analytics with in-memory computing, real-time streaming,
        MLlib for machine learning, and GraphX for graph analytics. It integrates seamlessly with HDFS,
-       Kafka, and cloud platforms, ensuring scalability, fault tolerance, and multi-language support. Spark 4.0 sets a new benchmark for large-scale data processing.</div>
+       Kafka, and cloud platforms, ensuring scalability, fault tolerance, and multi-language support. Spark 4.0 sets a new benchmark for large-scale data processing.
+    </div>
 </div>
 
 

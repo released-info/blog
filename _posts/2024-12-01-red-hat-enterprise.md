@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Evolution of Perl: Red Hat Enterprise Linux 10: Features and Release Timeline
+title: Understanding Red Hat Enterprise Linux Naming Conventions and Versions
 ---
 <div class="row">
     <div class="col-sm-2">

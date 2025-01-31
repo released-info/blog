@@ -8,8 +8,15 @@ title: The Evolution of Perl: From Perl 5 to Perl 7
     </div>
     <div class="col-sm-10">
         The Evolution of Perl: What Happened to Perl 6 and Why Perl 7 Was Cancelled
-        Perl has undergone significant changes, with Perl 6 (now Raku) and the announcement—and later cancellation—of Perl 7. Originally meant to modernize Perl, Perl 6 took nearly two decades to develop, diverging significantly from Perl 5. Due to compatibility issues, it was rebranded as Raku in 2019.
-        Perl 7, announced in 2020, aimed to be a modern evolution of Perl 5 with default strict mode and performance improvements. However, it was abandoned in 2023 due to community disagreements, governance challenges, and lack of consensus. Instead, Perl development continues with incremental updates to Perl 5. Despite these struggles, Perl remains actively maintained, ensuring its place in programming.
+        Perl has undergone significant changes, with Perl 6 (now Raku) and the announcement—and
+        later cancellation—of Perl 7. Originally meant to modernize Perl,
+        Perl 6 took nearly two decades to develop, diverging significantly from Perl 5.
+        Due to compatibility issues, it was rebranded as Raku in 2019.
+        Perl 7, announced in 2020, aimed to be a modern evolution of Perl 5 with
+        default strict mode and performance improvements.
+        However, it was abandoned in 2023 due to community disagreements, governance challenges,
+        and lack of consensus. Instead, Perl development continues with incremental updates to Perl 5.
+        Despite these struggles, Perl remains actively maintained, ensuring its place in programming.
     </div>
 </div>
 

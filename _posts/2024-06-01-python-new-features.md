@@ -8,12 +8,12 @@ title: Exploring the New Features in Python 3.12
     </div>
     <div class="col-sm-10">
         Python 3.12 brings exciting enhancements to performance, type safety, and developer experience.
-        Key updates include **immortal objects**, **improved static typing**, **self-type hints**, and **better error messages**.
-        The **match-case syntax** receives refinements, while **performance optimizations** improve exception handling and memory efficiency.
-        Looking ahead, Python’s future includes **faster CPython**, **GIL removal for better multi-threading**, and **expanded WebAssembly and mobile support**.
-        **Type hinting continues to evolve**, enhancing maintainability, while **Python’s AI and data science ecosystem grows** with better integrations.
-        **Packaging improvements** streamline dependency management.
-        With innovations in performance and usability, **Python remains a top choice for developers**, evolving to meet modern software needs while maintaining its simplicity and power.
+        Key updates include immortal objects, improved static typing, self-type hints, and better error messages.
+        The match-case syntax receives refinements, while performance optimizations improve exception handling and memory efficiency.
+        Looking ahead, Python’s future includes faster CPython, GIL removal for better multi-threading, and expanded WebAssembly and mobile support.
+        Type hinting continues to evolve, enhancing maintainability, while Python’s AI and data science ecosystem grows with better integrations.
+        Packaging improvements streamline dependency management.
+        With innovations in performance and usability, Python remains a top choice for developers, evolving to meet modern software needs while maintaining its simplicity and power.
     </div>
 </div>
 

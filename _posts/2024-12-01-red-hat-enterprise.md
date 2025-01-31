@@ -7,9 +7,20 @@ title: Understanding Red Hat Enterprise Linux Naming Conventions and Versions
         <img src="/images/linux-red-hat.png" alt="Linux Red Hat logo"/>
     </div>
     <div class="col-sm-10">
-        Red Hat Enterprise Linux (RHEL) is a leading enterprise-grade Linux distribution, offering stability and long-term support. A common mistake is referring to it as "Linux RedHat 10", which is incorrect. The correct name is Red Hat Enterprise Linux 10 (RHEL 10), maintaining the structured naming convention.
-        Red Hat originally released Red Hat Linux, transitioning to RHEL in 2003. Major versions like RHEL 6, 7, 8, and 9 introduced key innovations in security, virtualization, and containerization. Red Hat provides up to 10 years of support per version, ensuring reliability.
-        Proper naming ensures clarity and professionalism in enterprise IT. With each release, Red Hat advances in cloud, AI, and security, making RHEL a trusted platform for modern workloads.
+        Red Hat has announced the upcoming release of Red Hat Enterprise Linux (RHEL) 10,
+        marking a significant milestone in enterprise operating systems.
+        Building upon its legacy of stability and innovation, RHEL 10 aims to provide a modern Linux
+        experience tailored for both traditional and emerging workloads.
+        The RHEL 10 Beta was made available on December 11, 2024,
+        inviting users to test and explore the new features.
+        The general availability of RHEL 10 is scheduled for mid-2025, adhering to Red Hat’s commitment
+        to a predictable release cadence of a new major version every three years.
+        RHEL 10 is built upon Kernel 6.11.0, bringing enhancements in performance, security,
+        and hardware support. A standout feature in RHEL 10 is the introduction of Red Hat Enterprise Linux Lightspeed,
+        a generative AI tool designed to assist users in building, deploying, and managing RHEL environments efficiently.
+        For the first time, the RHEL 10 Beta is accessible through the Insights Image Builder,
+        a service that allows users to create customized, up-to-date golden images.
+        RHEL 10 introduces improvements to Image Mode, facilitating seamless integration into CI/CD and GitOps workflows.
     </div>
 </div>
 

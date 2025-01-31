@@ -7,7 +7,11 @@ title: Understanding Java Release Cycle and Versioning
         <img src="/images/java.png" alt="Java logo"/>
     </div>
     <div class="col-sm-10">
-        C# continues to evolve, bringing new features that enhance performance, security, and developer productivity. In this post, we'll explore some of the most exciting additions to recent C# versions and how they impact modern development.
+        Java has adopted a time-driven release cycle, ensuring a steady flow of new features, improvements, and security updates. Since Java 10, Oracle has introduced a six-month release cycle for new Java versions, meaning a new version is released every March and September. The key release types include feature releases every six months, Long-Term Support (LTS) releases every two years, and critical patch updates (CPU) providing security updates quarterly.
+        LTS releases, such as Java 11, Java 17, and Java 21, receive updates for an extended period, typically at least eight years, making them suitable for enterprise applications requiring stability. In contrast, non-LTS releases, like Java 12 and Java 13, receive updates for only six months before being superseded, offering early access to new features for developers eager to experiment.
+        Java follows a predictable versioning pattern: Java <major>.<minor>.<security>+<build>. For example, Java 17.0.2+8 denotes Java 17, minor update 0, security patch 2, build 8.
+        The new release model offers several benefits. Developers gain access to new language and JVM improvements every six months, fostering faster innovation. Predictable updates facilitate easier planning for teams relying on Java's stability and security patches. Additionally, each version brings performance enhancements and improved garbage collection mechanisms, contributing to better overall performance.
+        When deciding whether to upgrade, organizations seeking stability for enterprise applications are advised to stick to LTS versions. Conversely, those interested in early access to new features may opt for non-LTS releases. This structured release model ensures that Java remains a robust and evolving platform, catering to both enterprises seeking stability and developers eager for the latest features.
     </div>
 </div>
 

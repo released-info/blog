@@ -20,6 +20,18 @@ title: The Evolution of Perl - From Perl 5 to Perl 7
     </div>
 </div>
 
+<meta property="og:title" content="Perl Versions: Evolution and Key Updates">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/08/01/perl-versions.html">
+<meta property="og:image" content="https://blog.released.info/images/perl-logo.png">
+<meta property="og:description" content="Explore the evolution of Perl, its latest versions, and key updates that enhance performance, security, and modern application development.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-08-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming Languages">
+<meta property="article:tag" content="Perl, Perl Versions, Scripting, Programming, Open Source, Development">
+
 
 # The Evolution of Perl: From Perl 5 to Perl 7
 

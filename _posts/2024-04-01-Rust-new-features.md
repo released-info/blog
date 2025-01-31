@@ -12,6 +12,19 @@ title: Exploring the Latest Features in Rust
 </div>
 
 
+<meta property="og:title" content="Rust New Features: Latest Enhancements and Improvements">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/04/01/Rust-new-features.html">
+<meta property="og:image" content="https://blog.released.info/images/rust.png">
+<meta property="og:description" content="Discover the latest updates in Rust, including performance optimizations, new language features, and improved developer tools.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-04-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming Languages">
+<meta property="article:tag" content="Rust, Rust Features, Programming, Development, Open Source, Software Updates">
+
+
 # Exploring the Latest Features in Rust
 
 Rust continues to evolve, introducing features that enhance its performance, reliability, and developer experience. In this post, we'll delve into some of the notable additions and improvements in recent Rust releases.

@@ -24,6 +24,18 @@ title: Understanding Red Hat Enterprise Linux Naming Conventions and Versions
     </div>
 </div>
 
+<meta property="og:title" content="Exploring the Latest Features in Java">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2025/01/01/java-news.html">
+<meta property="og:image" content="https://blog.released.info/images/linux-red-hat.png">
+<meta property="og:description" content="Discover the latest enhancements in Java, including pattern matching, records, virtual threads, and more. Stay updated with Java's evolution to enhance your development skills.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-01-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming">
+<meta property="article:tag" content="Java, Programming, Software Development, Java 21, Project Loom, Project Valhalla">
+
 
 # Understanding Red Hat Enterprise Linux Naming Conventions and Versions
 

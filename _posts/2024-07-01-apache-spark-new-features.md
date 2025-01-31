@@ -18,6 +18,18 @@ title: Unveiling Apache Spark 4.0 - A New Era in Big Data Processing
     </div>
 </div>
 
+<meta property="og:title" content="Apache Spark: New Features and Enhancements">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/07/01/apache-spark-new-features.html">
+<meta property="og:image" content="https://blog.released.info/images/spark-logo.png">
+<meta property="og:description" content="Discover the latest features and performance improvements in Apache Spark, including enhanced ML support, better scalability, and optimized data processing.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-07-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Big Data">
+<meta property="article:tag" content="Apache Spark, Big Data, Machine Learning, Data Processing, Open Source, Scalability">
+
 
 # Unveiling Apache Spark 4.0: A New Era in Big Data Processing
 

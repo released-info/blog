@@ -11,6 +11,19 @@ title: Microsoft SQL Server - A Comprehensive Overview
     </div>
 </div>
 
+<meta property="og:title" content="SQL Server: Latest Features and Enhancements">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/10/01/sql-server.html">
+<meta property="og:image" content="https://blog.released.info/images/sqlserver-logo.png">
+<meta property="og:description" content="Explore the latest updates in Microsoft SQL Server, including performance improvements, security enhancements, and cloud integration features.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-10-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Database Management">
+<meta property="article:tag" content="SQL Server, Database, Microsoft, Cloud, Security, Performance">
+
+
 # Microsoft SQL Server: A Comprehensive Overview
 
 ## Introduction

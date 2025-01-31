@@ -17,6 +17,18 @@ title: Exploring the New Features in Python 3.12
     </div>
 </div>
 
+<meta property="og:title" content="Python New Features: Latest Enhancements and Updates">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/06/01/python-new-features.html">
+<meta property="og:image" content="https://blog.released.info/images/python-logo.png">
+<meta property="og:description" content="Explore the newest features in Python, including performance improvements, syntax enhancements, and powerful standard library updates.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-06-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming Languages">
+<meta property="article:tag" content="Python, Python Features, Programming, Development, Open Source, Software Updates">
+
 
 # Exploring the New Features in Python 3.12
 

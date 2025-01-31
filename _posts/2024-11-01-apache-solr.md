@@ -21,6 +21,18 @@ title: Exploring New Features in Recent Apache Solr Versions
     </div>
 </div>
 
+<meta property="og:title" content="Apache Solr: Powerful Search Platform for Big Data">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/11/01/apache-solr.html">
+<meta property="og:image" content="https://blog.released.info/images/solr.png">
+<meta property="og:description" content="Learn about Apache Solr, an open-source search platform that provides advanced indexing, distributed search, and scalability for big data applications.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-11-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Search Technologies">
+<meta property="article:tag" content="Apache Solr, Search Engine, Big Data, Open Source, Indexing, Distributed Search">
+
 
 # Exploring New Features in Recent Apache Solr Versions
 

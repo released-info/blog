@@ -17,6 +17,15 @@ title: Understanding Java Release Cycle and Versioning
     </div>
 </div>
 
+<meta property="og:title" content="Understanding Java Release Cycle and Versioning">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2024/03/01/java-releases.html">
+<meta property="og:image" content="https://blog.released.info/images/java.png">
+<meta property="og:description" content="Explore Java's time-driven release cycle, versioning scheme, and the implications for developers, including the differences between LTS and non-LTS releases.">
+<meta property="og:site_name" content="Released.info Blog">
+<meta property="article:published_time" content="2024-03-01">
+<meta property="article:author" content="Released.info Blog Team">
+
 
 # Understanding Java Release Cycle and Versioning
 

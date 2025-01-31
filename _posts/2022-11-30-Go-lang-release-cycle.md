@@ -11,6 +11,15 @@ title: Go release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Go Release Cycle">
+<meta property="og:description" content="An overview of the Go programming language's release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/11/30/Go-lang-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/golang.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-11-30">
+
+
 # GO Language Release Cycle
 
 ## What is the GO Language Release Cycle?

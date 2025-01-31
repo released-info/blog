@@ -11,6 +11,14 @@ title: Apache Solr
     </div>
 </div>
 
+<meta property="og:title" content="Apache Solr">
+<meta property="og:description" content="Apache Solr is an open-source enterprise search platform based on the Apache Lucene library, providing a distributed, scalable, and fault-tolerant solution for indexing and searching large volumes of data.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/01/10/Apache-Solr.html">
+<meta property="og:image" content="https://blog.released.info/images/solr.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2023-01-10">
+
 
 # Apache Solr
 

@@ -11,6 +11,15 @@ title: Linux Fedora release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Fedora Release Cycle">
+<meta property="og:description" content="An overview of the Fedora Linux release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2021/08/01/Linux-fedora.html">
+<meta property="og:image" content="https://blog.released.info/images/linux-fedora.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2021-08-01">
+
+
 # Release cycle of Linux Fedora
 
 The Fedora Project releases a new version of Fedora Linux approximately every six months and provides updated (

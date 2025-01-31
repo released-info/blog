@@ -12,6 +12,19 @@ title: Elasticsearch
 </div>
 
 
+<meta property="og:title" content="Elasticsearch: Scalable Search and Analytics Engine">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/09/10/Elasticsearch.html">
+<meta property="og:image" content="https://blog.released.info/images/elastic.png">
+<meta property="og:description" content="Elasticsearch is a distributed, RESTful search and analytics engine capable of handling large volumes of data in real time.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-09-10T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Search Engines">
+<meta property="article:tag" content="Elasticsearch, Search Engine, Data Analytics, Open Source">
+
+
 # Introduction
 
 Elasticsearch is an open source, distributed, NoSQL search engine and analytics platform. It provides a powerful search engine that enables users to quickly find the most relevant documents from their collections. Elasticsearch is based on Apache Lucene, a well-known search library written in Java.

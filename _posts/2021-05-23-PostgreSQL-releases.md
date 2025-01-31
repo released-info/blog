@@ -11,6 +11,15 @@ title: What is PostgreSQL release cycle? How often?
     </div>
 </div>
 
+<meta property="og:title" content="PostgreSQL Release Cycle" />
+<meta property="og:description" content="PostgreSQL follows a structured release cycle with major versions released annually, each supported for five years. Minor releases, including bug fixes and security patches, are issued at least quarterly." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/05/23/PostgreSQL-releases.html" />
+<meta property="og:image" content="https://blog.released.info/images/PostgreSQL-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-05-23" />
+
+
 So, what is PostgreSQL release cycle? Well, a PostgreSQL release cycle is a schedule to which a new PostgreSQL version
 is released. A new major version containing new features is currently released about once a year by the PostgreSQL
 Global Development Group. After that, they can then switch to "Minor release cycle," which involves releasing major

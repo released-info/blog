@@ -13,6 +13,18 @@ title: Objective Pascal
     </div>
 </div>
 
+<meta property="og:title" content="Objective Pascal: Bridging Object-Oriented Programming with Pascal">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/11/10/Objective-Pascal.html">
+<meta property="og:image" content="https://blog.released.info/images/objective-pascal-logo.jpg">
+<meta property="og:description" content="Explore the features and history of Objective Pascal, a language that combines Object Pascal with elements from C++ and Objective-C, offering flexibility and power for cross-platform development.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-11-10T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming Languages">
+<meta property="article:tag" content="Objective Pascal, Programming, Object-Oriented, Cross-Platform Development, Apple">
+
 
 ## Introduction
 Objective Pascal is an object-oriented language with a syntax similar to that of Object Pascal, which is also known as Delphi or Turbo Pascal. Object Pascal was originally developed by Niklaus Wirth in the 1970s and later expanded upon by Borland Software Corporation in the 1980s. Object Pascal has since been adopted by Apple Inc. and Borland Software Corporation as the primary development language for their desktop and mobile platforms, respectively.

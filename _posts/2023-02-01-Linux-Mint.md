@@ -12,6 +12,15 @@ title: Linux Mint
     </div>
 </div>
 
+<meta property="og:title" content="Linux Mint" />
+<meta property="og:description" content="Linux Mint is an open-source and freely available operating system based on the popular Ubuntu Linux distribution. It is primarily designed for use on desktop computers, laptops, and other personal computer hardware platforms." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2023/02/01/Linux-Mint.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-mint-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2023-02-01" />
+
+
 # Introdcution
 
 Linux Mint is a Linux-based operating system designed for desktop use. It is powered by the Linux kernel, which is the

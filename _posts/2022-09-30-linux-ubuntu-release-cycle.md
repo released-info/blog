@@ -11,6 +11,15 @@ title: Linux Ubuntu release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Ubuntu Release Cycle">
+<meta property="og:description" content="An overview of the Linux Ubuntu release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/09/30/linux-ubuntu-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/linux-ubuntu.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-09-30">
+
+
 # Introduction to the Linux Ubuntu Release Cycle
 
 ## What Is Ubuntu?

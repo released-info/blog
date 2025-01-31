@@ -11,6 +11,15 @@ title: C release cycle
     </div>
 </div>
 
+<meta property="og:title" content="C Release Cycle" />
+<meta property="og:description" content="Explore the release cycle of the C programming language, from its initial development in the early 1970s to its current status. Understand the stages involved in releasing new versions, including testing, development, maintenance, and support." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/08/01/c-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/c-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-08-01" />
+
+
 # The Language C Release Cycle
 
 ## Introduction

@@ -12,6 +12,15 @@ title: What is Java release cycle & how often?
     </div>
 </div>
 
+<meta property="og:title" content="What is Java release cycle & how often?" />
+<meta property="og:description" content="Java release cycle is a specified time sequence or schedule in which a new Java version is released. Currently, there is six months release cycle which usually occurs in March and September of every year." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/05/20/Java-releases.html" />
+<meta property="og:image" content="https://blog.released.info/images/java.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-05-20" />
+
+
 * Long term support releases
 * Feature releases – which are the regular releases.
 

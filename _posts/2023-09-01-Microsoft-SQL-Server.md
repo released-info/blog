@@ -12,6 +12,18 @@ title: Microsoft SQL Server
     </div>
 </div>
 
+<meta property="og:title" content="Microsoft SQL Server: Features and Updates">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/09/01/Microsoft-SQL-Server.html">
+<meta property="og:image" content="https://blog.released.info/images/sqlserver-logo.png">
+<meta property="og:description" content="Explore the latest features and improvements in Microsoft SQL Server, a powerful relational database management system.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-09-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Databases">
+<meta property="article:tag" content="SQL Server, Database, Microsoft, RDBMS">
+
 
 # Microsoft SQL Server
 

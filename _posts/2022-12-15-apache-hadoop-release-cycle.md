@@ -12,6 +12,15 @@ title: Apache Hadoop release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Apache Hadoop Release Cycle">
+<meta property="og:description" content="An overview of Apache Hadoop's release cycle, detailing the processes and timelines for major and minor releases to ensure the framework remains up-to-date with the latest features and bug fixes.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/12/15/apache-hadoop-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/hadoop-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-12-15">
+
+
 # Apache Hadoop Release Cycle
 
 Major releases are released on an 18-month cycle. This includes an initial release, followed by any necessary patch

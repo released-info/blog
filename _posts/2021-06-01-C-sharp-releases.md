@@ -11,6 +11,15 @@ title: C# release cycle
     </div>
 </div>
 
+<meta property="og:title" content="C# Release Cycle">
+<meta property="og:description" content="An overview of the C# release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2021/06/01/C-sharp-releases.html">
+<meta property="og:image" content="https://blog.released.info/images/csharp-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2021-06-01">
+
+
 # What is the C# Release Cycle?
 
 The C# release cycle is an important process which ensures the stability, security and performance of the language.

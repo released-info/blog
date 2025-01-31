@@ -12,6 +12,15 @@ title: Linux Fedora
     </div>
 </div>
 
+<meta property="og:title" content="Linux Fedora" />
+<meta property="og:description" content="Linux Fedora is a popular operating system and a Linux distribution created by the nonprofit organization Fedora Project. It is based on the Linux kernel and developed by the community-supported Fedora Project, sponsored by Red Hat." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2023/01/01/Linux-Fedora.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-fedora.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2023-01-01" />
+
+
 # What is Linux Fedora?
 
 Linux Fedora is a Linux-based operating system developed by the Fedora Project as a free, open source alternative to

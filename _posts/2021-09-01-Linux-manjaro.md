@@ -11,6 +11,15 @@ title: Linux Manjaro release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Manjaro Linux Release Cycle" />
+<meta property="og:description" content="Manjaro Linux follows a rolling release development model, providing continuous updates without the need for reinstallation. Users receive the latest features and security patches through regular system updates." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/09/01/Linux-manjaro.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-manjaro.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-09-01" />
+
+
 # Release cycle of Linux Manjaro
 
 Manjaro adopts a continuous release development model, and the central system itself will not be replaced, but will be

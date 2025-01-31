@@ -11,6 +11,15 @@ title: MongoDB release cycle
     </div>
 </div>
 
+<meta property="og:title" content="MongoDB Release Cycle" />
+<meta property="og:description" content="Explore the MongoDB release cycle, from initial planning and coding to testing and deployment. Understand how each phase ensures the database's reliability and performance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/06/30/mongodb-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/mongodb-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-06-30" />
+
+
 # The Apache MongoDB Release Cycle
 
 Though Apache MongoDB is user-friendly, it also requires periodic updates that involve the entire release cycle: from

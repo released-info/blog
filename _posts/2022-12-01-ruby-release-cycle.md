@@ -11,6 +11,15 @@ title: Ruby release cycle
     </div>
 </div>
 
+<meta property="og:title" content="R Release Cycle">
+<meta property="og:description" content="An overview of the R programming language's release cycle, detailing its stages and the benefits of updating to the latest versions for improved performance and reliability.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/11/20/R-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/ruby-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-11-20">
+
+
 # Introduction to the Ruby Release Cycle
 
 The Ruby Release Cycle offers developers a chance to stay up-to-date with the latest updates and changes to the

@@ -11,6 +11,15 @@ title: .NET release cycle
     </div>
 </div>
 
+<meta property="og:title" content=".NET Release Cycle" />
+<meta property="og:description" content="The .NET release cycle is an iterative process that defines how often and when Microsoft releases new versions of its .NET Framework and associated development tools like Visual Studio. Each release includes major, minor, and patch updates, focusing on innovation, performance improvements, and efficient memory management." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/05/01/dot-net-release-cycyle.html" />
+<meta property="og:image" content="https://blog.released.info/images/csharp-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-05-01" />
+
+
 # What is the .NET Release Cycle?
 
 The release cycle is based on a commitment to continued innovation and improvement of the .NET Framework and its

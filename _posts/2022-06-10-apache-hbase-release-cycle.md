@@ -11,6 +11,15 @@ title: Apache HBase release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Apache HBase Release Cycle" />
+<meta property="og:description" content="Apache HBase is an open-source, distributed, column-oriented database built on top of the Apache Hadoop ecosystem. It enables users to store, analyze, and retrieve data in real-time, providing a distributed NoSQL database for enterprises. This article explains the Apache HBase release cycle and how it works." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/06/10/apache-hbase-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/hbase-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-06-10" />
+
+
 ## Apache HBase Release Cycle
 
 ### History

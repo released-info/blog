@@ -11,6 +11,15 @@ title: PHP release cycle
     </div>
 </div>
 
+<meta property="og:title" content="PHP Release Cycle">
+<meta property="og:description" content="An overview of the PHP release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/07/30/php-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/php-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-07-30">
+
+
 # Introduction to the PHP Release Cycle
 
 The core PHP language is constantly being updated with the release of new versions. Each version contains bug fixes,

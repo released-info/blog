@@ -11,6 +11,19 @@ title: PostgreSQL
    </div>
 </div>
 
+<meta property="og:title" content="PostgreSQL: Advanced Open-Source Relational Database">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/06/01/PostgreSQL.html">
+<meta property="og:image" content="https://blog.released.info/images/PostgreSQL-logo.png">
+<meta property="og:description" content="Explore PostgreSQL, a powerful, open-source object-relational database system known for its extensibility, performance, and reliability.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-06-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Databases">
+<meta property="article:tag" content="PostgreSQL, Database, SQL, Open Source, Data Management">
+
+
 # Introduction
 
 PostgreSQL is an open-source object-relational database management system (ORDBMS). It is designed to provide an

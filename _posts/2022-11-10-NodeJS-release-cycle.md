@@ -11,6 +11,15 @@ title: NodeJS release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Node.js Release Cycle" />
+<meta property="og:description" content="Node.js is an open-source, cross-platform JavaScript runtime environment for server-side scripting and creating dynamic web applications. This article discusses the Node.js release cycle, detailing each step in the process and how they are used." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/11/10/NodeJS-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/nodejs-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-11-10" />
+
+
 # About the Node.js Release Cycle
 
 The Node.js project follows a regular release cycle that consists of various stages, each of which serves its own

@@ -11,6 +11,15 @@ title: iOS release cycle
     </div>
 </div>
 
+<meta property="og:title" content="iOS Release Cycle">
+<meta property="og:description" content="An overview of the iOS release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/08/30/ios-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/ios-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-08-30">
+
+
 # Introduction to the iOS Release Cycle
 
 # History of the iOS Release Cycle

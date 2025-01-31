@@ -11,6 +11,15 @@ title: Linux Fedora release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Fedora Release Cycle" />
+<meta property="og:description" content="Linux Fedora is a popular open-source operating system known for its fast performance and wide variety of applications. This article discusses the Fedora release cycle, its importance, and how to keep your system up to date." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/09/20/linux-fedora-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-fedora.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-09-20" />
+
+
 # Introduction to Linux Fedora Release Cycles
 
 In this article, we will discuss the concept of Linux Fedora release cycles, why they are important, and some examples

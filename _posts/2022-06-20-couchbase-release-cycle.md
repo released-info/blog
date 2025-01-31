@@ -11,6 +11,15 @@ title: CouchDB release cycle
     </div>
 </div>
 
+<meta property="og:title" content="CouchDB Release Cycle">
+<meta property="og:description" content="An overview of the Apache CouchDB release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/06/20/couchbase-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/couchbase-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-06-20">
+
+
 # Apache Couchbase Release Cycle
 
 The Apache Couchbase project has three main releases: an Enterprise Edition (EE) release, a Community Edition (CE)

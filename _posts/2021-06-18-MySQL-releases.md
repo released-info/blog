@@ -11,6 +11,15 @@ title: MySQL release cycle
     </div>
 </div>
 
+<meta property="og:title" content="MySQL Release Cycle">
+<meta property="og:description" content="An overview of the MySQL release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2021/06/18/MySQL-releases.html">
+<meta property="og:image" content="https://blog.released.info/images/mysql.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2021-06-18">
+
+
 # MySQL Release Cycle
 
 MySQL's release cycle is staggered across three different stages: development, release candidate, and finally, general

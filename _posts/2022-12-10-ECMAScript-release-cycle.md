@@ -11,6 +11,15 @@ title: ECMAScript release cycle
     </div>
 </div>
 
+<meta property="og:title" content="ECMAScript Release Cycle" />
+<meta property="og:description" content="ECMAScript is a standardized scripting language created to provide a consistent set of rules and regulations for programming with JavaScript. This article discusses the release cycle of ECMAScript and how it affects developers." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/12/10/ECMAScript-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/ecmascript-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-12-10" />
+
+
 # Introduction to ECMAScript Language Release Cycle
 
 ## What is ECMAScript?

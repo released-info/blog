@@ -11,6 +11,15 @@ title: Linux Red Hat release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Red Hat Release Cycle" />
+<meta property="og:description" content="Explore the release cycle of Red Hat Enterprise Linux (RHEL), including its support phases and version history, to understand its evolution and lifecycle." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/11/01/Linux-red-hat.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-red-hat.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-11-01" />
+
+
 Red Hat curates, guarantees and supports a distribution of Linux, now popular as Red Hat Enterprise Linux, a change that
 happened in 2003 as a result of the merger with the Fedora Linux Plan. Today, Red Hat Enterprise Linux supports and
 powers program and technologies for automation, cloud, container, middleware, storage, application development,

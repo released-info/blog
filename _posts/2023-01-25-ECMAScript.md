@@ -13,6 +13,15 @@ title: ECMAScript
     </div>
 </div>
 
+<meta property="og:title" content="ECMAScript" />
+<meta property="og:description" content="ECMAScript is a powerful and easy-to-use programming language with a wide range of features. It is the language used for creating most modern web applications, server-side modules, and interactive web pages." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2023/01/25/ECMAScript.html" />
+<meta property="og:image" content="https://blog.released.info/images/ecmascript-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2023-01-25" />
+
+
 # ECMAScript
 
 ECMAScript is an object-oriented programming language used primarily for designing and developing interactive web pages,

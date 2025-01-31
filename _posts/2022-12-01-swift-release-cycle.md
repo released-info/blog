@@ -11,6 +11,16 @@ title: Swift release cycle
     </div>
 </div>
 
+
+<meta property="og:title" content="Swift Release Cycle">
+<meta property="og:description" content="An overview of the Swift programming language's release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/12/01/swift-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/swift-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-12-01">
+
+
 # Swift Language Release Cycle
 
 The Swift release cycle is the process of releasing new versions of Swift. Each version brings new features, bug fixes,

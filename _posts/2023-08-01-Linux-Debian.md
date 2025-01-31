@@ -11,6 +11,19 @@ title: Linux Debian
     </div>
 </div>
 
+<meta property="og:title" content="Linux Debian: Stability and Open-Source Power">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/08/01/Linux-Debian.html">
+<meta property="og:image" content="https://blog.released.info/images/debian-logo.png">
+<meta property="og:description" content="Explore the features and advantages of Debian, one of the most stable and widely used Linux distributions in the world.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-08-01T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Operating Systems">
+<meta property="article:tag" content="Linux, Debian, Open Source, Stability">
+
+
 # Overview of Linux Debian
 
 Linux Debian is an operating system for computers. It is based on the Linux kernel and was created by the Debian

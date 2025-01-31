@@ -11,6 +11,15 @@ title: Android release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Android Release Cycle" />
+<meta property="og:description" content="Explore the Android release cycle, from its inception in 2008 to the latest updates. Understand how Google schedules and releases new versions, ensuring your device stays current with the latest features and security patches." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/08/20/android-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/android-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-08-20" />
+
+
 # Introduction to Android OS Release Cycle
 
 ## History of Android OS

@@ -11,6 +11,15 @@ title: R release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Ruby Release Cycle" />
+<meta property="og:description" content="Ruby is a powerful, object-oriented scripting language used for programming and scripting on the web. This article discusses the Ruby Release Cycle, its history, and how developers can stay up-to-date with the latest features and bug fixes." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/12/01/ruby-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/r-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-12-01" />
+
+
 # Introduction to R Language Release Cycles
 
 The R language has a release cycle of its own, which includes versions and versions of the language that are maintained

@@ -11,6 +11,15 @@ title: Apache Solr release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Apache Solr Release Cycle" />
+<meta property="og:description" content="Explore the Apache Solr release cycle, from initial planning and development to testing and deployment. Understand how each phase ensures the search platform's reliability and performance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/06/01/apache-solr-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/solr.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-06-01" />
+
+
 # Introduction to Apache Solr Release Cycle
 
 The Apache Solr release cycle is the governing process for releasing new versions of Solr. It's intended to ensure that

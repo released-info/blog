@@ -11,6 +11,15 @@ title: Rust release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Rust Release Cycle" />
+<meta property="og:description" content="Explore the Rust release cycle, from its inception in 2010 to the latest updates. Understand how the Rust team ensures stability and introduces new features through a structured release process." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/07/10/rust-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/rust.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-07-10" />
+
+
 # Rust
 
 Rust is often considered to be one of the most powerful languages available, as it allows developers to create reliable,

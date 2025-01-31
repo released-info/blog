@@ -11,6 +11,15 @@ title: Apache Hadoop
     </div>
 </div>
 
+<meta property="og:title" content="Apache Hadoop">
+<meta property="og:description" content="Apache Hadoop is an open-source software framework for distributed storage and processing of large datasets on computer clusters. It consists of four main components: HDFS, YARN, MapReduce, and Apache HBase. Hadoop can be used for a variety of tasks such as data mining, machine learning, real-time analytics, log processing, and more. The framework is highly scalable and allows developers to quickly and easily process large datasets.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/11/05/Apache-Hadoop.html">
+<meta property="og:image" content="https://blog.released.info/images/hadoop-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-11-05">
+
+
 # Apache Hadoop
 
 Apache Hadoop is a comprehensive, open-source software framework for large-scale distributed storage and processing of

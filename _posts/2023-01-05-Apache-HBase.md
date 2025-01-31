@@ -11,6 +11,15 @@ title: Apache HBase
     </div>
 </div>
 
+<meta property="og:title" content="Apache HBase">
+<meta property="og:description" content="Apache HBase is an open-source, distributed, versioned, non-relational database built on top of the Hadoop Distributed File System (HDFS). It provides real-time read/write access to large datasets and is designed to scale from single servers to thousands of machines.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/01/05/Apache-HBase.html">
+<meta property="og:image" content="https://blog.released.info/images/hbase-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2023-01-05">
+
+
 # Apache HBase
 
 HBase was developed out of the need for real-time, random read/write access to very large datasets. Since it is built

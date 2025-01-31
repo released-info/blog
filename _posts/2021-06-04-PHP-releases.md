@@ -11,6 +11,15 @@ title: PHP release cycle
     </div>
 </div>
 
+<meta property="og:title" content="PHP Release Cycle" />
+<meta property="og:description" content="PHP follows a structured release cycle with major versions released annually, typically in November or December. Each major version has a lifespan of three years: two years of active support for bug fixes, followed by one year of security fixes only." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/06/04/PHP-releases.html" />
+<meta property="og:image" content="https://blog.released.info/images/php-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-06-04" />
+
+
 # What is PHP release cycle?
 Good question. Well, a PHP release cycle is a set timeline template that showcases when a new PHP version is set to be released. But hold on, what about the minor release cycle? This is the timeline schedule that is based on an in-need basis in which updates and security fixes for the already released and in-use versions will be rolled out.
 

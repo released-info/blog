@@ -11,6 +11,15 @@ title: Linux kernel release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Kernel Release Cycle" />
+<meta property="og:description" content="Explore the Linux kernel release cycle, from initial planning and development to testing and deployment. Understand how each phase ensures the system's reliability and performance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/07/01/Core-linux.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux_logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-07-01" />
+
+
 # Release cycle of Linux kernel
 
 The principal versions are updated every six months and long-term support versions are published every two years. Daily

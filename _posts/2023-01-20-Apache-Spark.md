@@ -12,6 +12,14 @@ title: Apache Spark
     </div>
 </div>
 
+<meta property="og:title" content="Apache Spark">
+<meta property="og:description" content="Apache Spark is an open-source distributed computing framework designed for large-scale data processing, offering capabilities in data analysis, machine learning, and streaming applications.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/01/20/Apache-Spark.html">
+<meta property="og:image" content="https://blog.released.info/images/spark-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2023-01-20">
+
 
 # Apache Spark
 

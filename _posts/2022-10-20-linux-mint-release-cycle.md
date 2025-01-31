@@ -12,6 +12,15 @@ title: Linux Mint release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Mint Release Cycle" />
+<meta property="og:description" content="Linux Mint is an open-source operating system based on Ubuntu and Debian, designed for personal, business, and educational use. This article discusses the Linux Mint release cycle, its history, and the benefits of staying up-to-date with the latest versions." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/10/20/linux-mint-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/mint-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-10-20" />
+
+
 # Linux Mint - Understanding the Release Cycle
 
 Linux Mint is an open source operating system (OS) based on the [Ubuntu](https://www.ubuntu.com/)

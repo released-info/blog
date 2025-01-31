@@ -11,6 +11,16 @@ title: Perl release cycle
     </div>
 </div>
 
+
+<meta property="og:title" content="Perl Release Cycle" />
+<meta property="og:description" content="Perl is a popular scripting language known for its flexibility and powerful capabilities. This article discusses the basics of the Perl language release cycle, its history, types of releases, and the benefits of this process." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/12/19/perl-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/perl-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-12-19" />
+
+
 # Introduction to the Perl Language Release Cycle
 
 ## History of the Perl Release Cycle

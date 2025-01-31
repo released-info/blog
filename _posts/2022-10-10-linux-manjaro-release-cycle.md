@@ -11,6 +11,15 @@ title: Linux Manjaro release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Manjaro Release Cycle">
+<meta property="og:description" content="An overview of the Linux Manjaro release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/10/10/linux-manjaro-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/manjaro-logo.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-10-10">
+
+
 # Introduction to the Linux Manjaro Release Cycle
 
 ## History and Overview of Manjaro

@@ -11,6 +11,15 @@ title: Apache Cassandra
     </div>
 </div>
 
+<meta property="og:title" content="Apache Cassandra Release Cycle">
+<meta property="og:description" content="An overview of the Apache Cassandra release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2021/04/10/Apache-Cassandra.html">
+<meta property="og:image" content="https://blog.released.info/images/cassandra.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2021-04-10">
+
+
 # Apache Cassandra
 
 Apache Cassandra is an open-source, distributed NoSQL database management system designed to handle large amounts of

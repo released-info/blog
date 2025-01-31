@@ -13,6 +13,20 @@ title: Linux Manjaro
     </div>
 </div>
 
+
+<meta property="og:title" content="Linux Manjaro: A User-Friendly Arch-Based Distribution">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/06/10/Linux-Manjaro.html">
+<meta property="og:image" content="https://blog.released.info/images/linux-manjaro.png">
+<meta property="og:description" content="Discover Manjaro, the Arch-based Linux distribution that combines power, flexibility, and user-friendliness for an optimal desktop experience.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-06-10T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Operating Systems">
+<meta property="article:tag" content="Linux, Manjaro, Arch Linux, Open Source, Operating Systems">
+
+
 # Introduction
 
 Linux Manjaro is a Linux distribution based on Arch Linux. It is designed to provide users with an easy-to-use, open

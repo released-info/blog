@@ -11,6 +11,15 @@ title: OpenBSD release cycle
     </div>
 </div>
 
+<meta property="og:title" content="OpenBSD Release Cycle" />
+<meta property="og:description" content="OpenBSD is an open-source Unix-like operating system known for its emphasis on security and code correctness. This article discusses the OpenBSD release cycle, detailing its history, evolution, and the benefits it offers to users." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/11/01/OpenBSD-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/openbsd-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-11-01" />
+
+
 # OpenBSD Release Cycle
 
 ## What is OpenBSD?

@@ -1,0 +1,8 @@
+Generate  Open Graph html tags for better seo this article
+Use "Released.info Blog Team" as "article:author"
+use published_time as date from the url
+"og:image" take link of picture from article,
+do not wrap it in <head> tag. Return only html
+
+This is the link to be analyzed
+https://blog.released.info/2023/07/30/Linux-Ubuntu.html

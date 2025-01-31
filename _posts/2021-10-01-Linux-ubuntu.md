@@ -11,6 +11,15 @@ title: Linux Ubuntu release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Ubuntu Release Cycle" />
+<meta property="og:description" content="Ubuntu follows a regular release cycle, offering both Long-Term Support (LTS) and interim releases. LTS versions receive five years of standard support, followed by five years of Extended Security Maintenance (ESM), totaling ten years of support. Interim releases are supported for nine months." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2021/10/01/Linux-ubuntu.html" />
+<meta property="og:image" content="https://blog.released.info/images/linux-ubuntu.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2021-10-01" />
+
+
 # Release cycle of Linux Ubuntu
 
 There are 2 types of Ubuntu versions: provisional and LTS. Each Ubuntu LTS is maintained for a total of 10 years: 5

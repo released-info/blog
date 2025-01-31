@@ -11,6 +11,15 @@ title: Windows release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Windows Release Cycle" />
+<meta property="og:description" content="Explore the Windows release cycle, from planning and development to beta testing, release preview, and public launch. Understand how Microsoft ensures each version is tested and refined before public release." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/09/01/windows-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/windows-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-09-01" />
+
+
 # Windows Release Cycle
 
 ## Planning and Development

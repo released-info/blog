@@ -11,6 +11,15 @@ title: Elastic release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Elastic Release Cycle">
+<meta property="og:description" content="An overview of the Elasticsearch release cycle, detailing its history, major versions, minor releases, and point releases, along with code examples demonstrating new features.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2022/05/20/elastic-release-cycle.html">
+<meta property="og:image" content="https://blog.released.info/images/elastic.png">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:published_time" content="2022-05-20">
+
+
 # Introduction to the Elasticsearch Release Cycle
 
 The Elasticsearch release cycle is a process by which new versions of Elasticsearch are released. This process occurs on

@@ -12,6 +12,18 @@ title: Visual Basic
     </div>
 </div>
 
+<meta property="og:title" content="Visual Basic: A Modern Programming Language for the .NET Framework">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://blog.released.info/2023/03/02/Visual-Basic.html">
+<meta property="og:image" content="https://blog.released.info/images/visual-basic-logo.png">
+<meta property="og:description" content="Explore Visual Basic, a multi-paradigm, object-oriented programming language implemented on the .NET Framework, known for its simplicity and ease of use in building Windows applications.">
+<meta property="og:site_name" content="Released Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-03-02T00:00:00Z">
+<meta property="article:author" content="Released.info Blog Team">
+<meta property="article:section" content="Programming Languages">
+<meta property="article:tag" content="Visual Basic, .NET Framework, Programming, Windows Applications">
+
 
 # Visual Basic: A Comprehensive Overview 
 Visual Basic (VB) is a programming language that has been around since the early 1990s. It's an event-driven language that is used for development of Windows GUI, web applications, and database systems. VB is considered to be one of the easiest programming languages to learn and master. 

@@ -11,6 +11,15 @@ title: Linux Debian release cycle
     </div>
 </div>
 
+<meta property="og:title" content="Linux Debian Release Cycle" />
+<meta property="og:description" content="The Linux Debian release cycle is a set of steps and processes developed over time to produce an efficient, reliable operating system. It cultivates user feedback and provides updates with the latest software packages." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/10/01/linux-debian-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/debian-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-10-01" />
+
+
 # Overview of the Linux Debian Release Cycle
 
 ## History

@@ -12,6 +12,15 @@ title: Apache Spark release cycle
   </div>
 </div>
 
+<meta property="og:title" content="Apache Spark Release Cycle" />
+<meta property="og:description" content="Apache Spark is an open-source, distributed processing engine for big data analytics. This article discusses its release cycle, including major and minor versions, features, and benefits of staying up-to-date." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/12/05/apache-spark-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/spark-logo.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-12-05" />
+
+
 # Apache Spark Release Cycle
 
 The first version of Apache Spark was released in March of 2010, and has since become one of the most popular tools for

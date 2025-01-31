@@ -11,6 +11,15 @@ title: MariaDB release cycle
     </div>
 </div>
 
+<meta property="og:title" content="MariaDB Release Cycle" />
+<meta property="og:description" content="Explore the MariaDB release cycle, from initial planning and development to testing and deployment. Understand how each phase ensures the database's reliability and performance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.released.info/2022/05/01/maria-db-release-cycle.html" />
+<meta property="og:image" content="https://blog.released.info/images/maria-db.png" />
+<meta property="article:author" content="Released.info Blog Team" />
+<meta property="article:published_time" content="2022-05-01" />
+
+
 # MariaDB Release Cycle
 
 In this article, we will explore the MariaDB release cycle and how it has been continuously developed over the years.

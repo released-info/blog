@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Future of PostgreSQL: Innovations and Upcoming Features
+title: The Future of PostgreSQL - Innovations and Upcoming Features
 ---
 <div class="row">
     <div class="col-sm-2">

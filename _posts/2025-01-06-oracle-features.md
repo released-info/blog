@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift - New Features and Enhancements
+title: Exploring the Latest Features of Oracle Database
 ---
 <div class="row">
     <div class="col-sm-2">
